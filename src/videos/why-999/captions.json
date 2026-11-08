@@ -1,0 +1,569 @@
+[
+  {
+    "text": "Why",
+    "startMs": 240,
+    "endMs": 510,
+    "timestampMs": 375,
+    "confidence": 0.8
+  },
+  {
+    "text": " is",
+    "startMs": 510,
+    "endMs": 850,
+    "timestampMs": 680,
+    "confidence": 0.8
+  },
+  {
+    "text": " everything",
+    "startMs": 850,
+    "endMs": 1690,
+    "timestampMs": 1270,
+    "confidence": 0.8
+  },
+  {
+    "text": " $9.99?",
+    "startMs": 1690,
+    "endMs": 2890,
+    "timestampMs": 2290,
+    "confidence": 0.8
+  },
+  {
+    "text": " Because",
+    "startMs": 3440,
+    "endMs": 4120,
+    "timestampMs": 3780,
+    "confidence": 0.8
+  },
+  {
+    "text": " your",
+    "startMs": 4120,
+    "endMs": 4450,
+    "timestampMs": 4285,
+    "confidence": 0.8
+  },
+  {
+    "text": " brain",
+    "startMs": 4450,
+    "endMs": 4740,
+    "timestampMs": 4595,
+    "confidence": 0.8
+  },
+  {
+    "text": " reads",
+    "startMs": 4740,
+    "endMs": 5130,
+    "timestampMs": 4935,
+    "confidence": 0.8
+  },
+  {
+    "text": " left",
+    "startMs": 5130,
+    "endMs": 5580,
+    "timestampMs": 5355,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 5580,
+    "endMs": 5910,
+    "timestampMs": 5745,
+    "confidence": 0.8
+  },
+  {
+    "text": " right.",
+    "startMs": 5910,
+    "endMs": 6320,
+    "timestampMs": 6115,
+    "confidence": 0.8
+  },
+  {
+    "text": " It",
+    "startMs": 6640,
+    "endMs": 6910,
+    "timestampMs": 6775,
+    "confidence": 0.8
+  },
+  {
+    "text": " sees",
+    "startMs": 6910,
+    "endMs": 7140,
+    "timestampMs": 7025,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 7140,
+    "endMs": 7530,
+    "timestampMs": 7335,
+    "confidence": 0.8
+  },
+  {
+    "text": " 9",
+    "startMs": 7530,
+    "endMs": 7780,
+    "timestampMs": 7655,
+    "confidence": 0.8
+  },
+  {
+    "text": " first",
+    "startMs": 7780,
+    "endMs": 8060,
+    "timestampMs": 7920,
+    "confidence": 0.8
+  },
+  {
+    "text": " and",
+    "startMs": 8060,
+    "endMs": 8280,
+    "timestampMs": 8170,
+    "confidence": 0.8
+  },
+  {
+    "text": " files",
+    "startMs": 8280,
+    "endMs": 8740,
+    "timestampMs": 8510,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 8740,
+    "endMs": 9130,
+    "timestampMs": 8935,
+    "confidence": 0.8
+  },
+  {
+    "text": " price",
+    "startMs": 9130,
+    "endMs": 9290,
+    "timestampMs": 9210,
+    "confidence": 0.8
+  },
+  {
+    "text": " under",
+    "startMs": 9290,
+    "endMs": 9840,
+    "timestampMs": 9565,
+    "confidence": 0.8
+  },
+  {
+    "text": " $9,",
+    "startMs": 9840,
+    "endMs": 10540,
+    "timestampMs": 10190,
+    "confidence": 0.8
+  },
+  {
+    "text": " not",
+    "startMs": 10710,
+    "endMs": 10930,
+    "timestampMs": 10820,
+    "confidence": 0.8
+  },
+  {
+    "text": " $10.",
+    "startMs": 10930,
+    "endMs": 11220,
+    "timestampMs": 11075,
+    "confidence": 0.8
+  },
+  {
+    "text": " Researchers",
+    "startMs": 11840,
+    "endMs": 12410,
+    "timestampMs": 12125,
+    "confidence": 0.8
+  },
+  {
+    "text": " call",
+    "startMs": 12410,
+    "endMs": 12720,
+    "timestampMs": 12565,
+    "confidence": 0.8
+  },
+  {
+    "text": " it",
+    "startMs": 12720,
+    "endMs": 12960,
+    "timestampMs": 12840,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 12960,
+    "endMs": 13360,
+    "timestampMs": 13160,
+    "confidence": 0.8
+  },
+  {
+    "text": " left-digit",
+    "startMs": 13360,
+    "endMs": 13960,
+    "timestampMs": 13660,
+    "confidence": 0.8
+  },
+  {
+    "text": " effect.",
+    "startMs": 13960,
+    "endMs": 14360,
+    "timestampMs": 14160,
+    "confidence": 0.8
+  },
+  {
+    "text": " One",
+    "startMs": 14660,
+    "endMs": 15050,
+    "timestampMs": 14855,
+    "confidence": 0.8
+  },
+  {
+    "text": " cent,",
+    "startMs": 15050,
+    "endMs": 15500,
+    "timestampMs": 15275,
+    "confidence": 0.8
+  },
+  {
+    "text": " and",
+    "startMs": 15720,
+    "endMs": 15950,
+    "timestampMs": 15835,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 15950,
+    "endMs": 16260,
+    "timestampMs": 16105,
+    "confidence": 0.8
+  },
+  {
+    "text": " $10",
+    "startMs": 16260,
+    "endMs": 16810,
+    "timestampMs": 16535,
+    "confidence": 0.8
+  },
+  {
+    "text": " thing",
+    "startMs": 16810,
+    "endMs": 16930,
+    "timestampMs": 16870,
+    "confidence": 0.8
+  },
+  {
+    "text": " feels",
+    "startMs": 16930,
+    "endMs": 17200,
+    "timestampMs": 17065,
+    "confidence": 0.8
+  },
+  {
+    "text": " like",
+    "startMs": 17200,
+    "endMs": 17380,
+    "timestampMs": 17290,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 17380,
+    "endMs": 17760,
+    "timestampMs": 17570,
+    "confidence": 0.8
+  },
+  {
+    "text": " $9",
+    "startMs": 17760,
+    "endMs": 18220,
+    "timestampMs": 17990,
+    "confidence": 0.8
+  },
+  {
+    "text": " thing.",
+    "startMs": 18220,
+    "endMs": 18470,
+    "timestampMs": 18345,
+    "confidence": 0.8
+  },
+  {
+    "text": " You'll",
+    "startMs": 19200,
+    "endMs": 19440,
+    "timestampMs": 19320,
+    "confidence": 0.8
+  },
+  {
+    "text": " see",
+    "startMs": 19440,
+    "endMs": 19560,
+    "timestampMs": 19500,
+    "confidence": 0.8
+  },
+  {
+    "text": " it",
+    "startMs": 19560,
+    "endMs": 19800,
+    "timestampMs": 19680,
+    "confidence": 0.8
+  },
+  {
+    "text": " everywhere:",
+    "startMs": 19800,
+    "endMs": 20360,
+    "timestampMs": 20080,
+    "confidence": 0.8
+  },
+  {
+    "text": " gas",
+    "startMs": 20520,
+    "endMs": 21080,
+    "timestampMs": 20800,
+    "confidence": 0.8
+  },
+  {
+    "text": " priced",
+    "startMs": 21280,
+    "endMs": 21730,
+    "timestampMs": 21505,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 21730,
+    "endMs": 22040,
+    "timestampMs": 21885,
+    "confidence": 0.8
+  },
+  {
+    "text": " 9/10",
+    "startMs": 22040,
+    "endMs": 22370,
+    "timestampMs": 22205,
+    "confidence": 0.8
+  },
+  {
+    "text": " of",
+    "startMs": 22370,
+    "endMs": 22750,
+    "timestampMs": 22560,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 22750,
+    "endMs": 23020,
+    "timestampMs": 22885,
+    "confidence": 0.8
+  },
+  {
+    "text": " cent,",
+    "startMs": 23020,
+    "endMs": 23240,
+    "timestampMs": 23130,
+    "confidence": 0.8
+  },
+  {
+    "text": " restaurant",
+    "startMs": 23240,
+    "endMs": 23780,
+    "timestampMs": 23510,
+    "confidence": 0.8
+  },
+  {
+    "text": " menus,",
+    "startMs": 23780,
+    "endMs": 24270,
+    "timestampMs": 24025,
+    "confidence": 0.8
+  },
+  {
+    "text": " streaming",
+    "startMs": 24390,
+    "endMs": 24950,
+    "timestampMs": 24670,
+    "confidence": 0.8
+  },
+  {
+    "text": " subscriptions.",
+    "startMs": 24950,
+    "endMs": 25670,
+    "timestampMs": 25310,
+    "confidence": 0.8
+  },
+  {
+    "text": " So",
+    "startMs": 26290,
+    "endMs": 26590,
+    "timestampMs": 26440,
+    "confidence": 0.8
+  },
+  {
+    "text": " why",
+    "startMs": 26860,
+    "endMs": 27150,
+    "timestampMs": 27005,
+    "confidence": 0.8
+  },
+  {
+    "text": " do",
+    "startMs": 27150,
+    "endMs": 27350,
+    "timestampMs": 27250,
+    "confidence": 0.8
+  },
+  {
+    "text": " luxury",
+    "startMs": 27350,
+    "endMs": 28000,
+    "timestampMs": 27675,
+    "confidence": 0.8
+  },
+  {
+    "text": " brands",
+    "startMs": 28000,
+    "endMs": 28260,
+    "timestampMs": 28130,
+    "confidence": 0.8
+  },
+  {
+    "text": " do",
+    "startMs": 28260,
+    "endMs": 28380,
+    "timestampMs": 28320,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 28380,
+    "endMs": 28650,
+    "timestampMs": 28515,
+    "confidence": 0.8
+  },
+  {
+    "text": " opposite?",
+    "startMs": 28650,
+    "endMs": 29260,
+    "timestampMs": 28955,
+    "confidence": 0.8
+  },
+  {
+    "text": " Because",
+    "startMs": 29890,
+    "endMs": 30260,
+    "timestampMs": 30075,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 30260,
+    "endMs": 30620,
+    "timestampMs": 30440,
+    "confidence": 0.8
+  },
+  {
+    "text": " round",
+    "startMs": 30620,
+    "endMs": 30810,
+    "timestampMs": 30715,
+    "confidence": 0.8
+  },
+  {
+    "text": " price",
+    "startMs": 30810,
+    "endMs": 31130,
+    "timestampMs": 30970,
+    "confidence": 0.8
+  },
+  {
+    "text": " says,",
+    "startMs": 31130,
+    "endMs": 31450,
+    "timestampMs": 31290,
+    "confidence": 0.8
+  },
+  {
+    "text": " we're",
+    "startMs": 31450,
+    "endMs": 31670,
+    "timestampMs": 31560,
+    "confidence": 0.8
+  },
+  {
+    "text": " not",
+    "startMs": 31670,
+    "endMs": 31930,
+    "timestampMs": 31800,
+    "confidence": 0.8
+  },
+  {
+    "text": " trying",
+    "startMs": 31930,
+    "endMs": 32130,
+    "timestampMs": 32030,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 32130,
+    "endMs": 32450,
+    "timestampMs": 32290,
+    "confidence": 0.8
+  },
+  {
+    "text": " trick",
+    "startMs": 32450,
+    "endMs": 32700,
+    "timestampMs": 32575,
+    "confidence": 0.8
+  },
+  {
+    "text": " you.",
+    "startMs": 32700,
+    "endMs": 32960,
+    "timestampMs": 32830,
+    "confidence": 0.8
+  },
+  {
+    "text": " One",
+    "startMs": 33590,
+    "endMs": 34270,
+    "timestampMs": 33930,
+    "confidence": 0.8
+  },
+  {
+    "text": " cent.",
+    "startMs": 34270,
+    "endMs": 34800,
+    "timestampMs": 34535,
+    "confidence": 0.8
+  },
+  {
+    "text": " That's",
+    "startMs": 35490,
+    "endMs": 35640,
+    "timestampMs": 35565,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 35640,
+    "endMs": 35970,
+    "timestampMs": 35805,
+    "confidence": 0.8
+  },
+  {
+    "text": " whole",
+    "startMs": 35970,
+    "endMs": 36140,
+    "timestampMs": 36055,
+    "confidence": 0.8
+  },
+  {
+    "text": " trick.",
+    "startMs": 36140,
+    "endMs": 36360,
+    "timestampMs": 36250,
+    "confidence": 0.8
+  }
+]

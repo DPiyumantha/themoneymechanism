@@ -1,0 +1,807 @@
+[
+  {
+    "text": "Gas",
+    "startMs": 300,
+    "endMs": 500,
+    "timestampMs": 400,
+    "confidence": 0.8
+  },
+  {
+    "text": " is",
+    "startMs": 500,
+    "endMs": 800,
+    "timestampMs": 650,
+    "confidence": 0.8
+  },
+  {
+    "text": " $4.10",
+    "startMs": 800,
+    "endMs": 2320,
+    "timestampMs": 1560,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 2320,
+    "endMs": 2600,
+    "timestampMs": 2460,
+    "confidence": 0.8
+  },
+  {
+    "text": " gallon.",
+    "startMs": 2600,
+    "endMs": 3110,
+    "timestampMs": 2855,
+    "confidence": 0.8
+  },
+  {
+    "text": " So",
+    "startMs": 3850,
+    "endMs": 4180,
+    "timestampMs": 4015,
+    "confidence": 0.8
+  },
+  {
+    "text": " where",
+    "startMs": 4180,
+    "endMs": 4270,
+    "timestampMs": 4225,
+    "confidence": 0.8
+  },
+  {
+    "text": " does",
+    "startMs": 4270,
+    "endMs": 4520,
+    "timestampMs": 4395,
+    "confidence": 0.8
+  },
+  {
+    "text": " that",
+    "startMs": 4520,
+    "endMs": 4790,
+    "timestampMs": 4655,
+    "confidence": 0.8
+  },
+  {
+    "text": " money",
+    "startMs": 4790,
+    "endMs": 5360,
+    "timestampMs": 5075,
+    "confidence": 0.8
+  },
+  {
+    "text": " actually",
+    "startMs": 5360,
+    "endMs": 5960,
+    "timestampMs": 5660,
+    "confidence": 0.8
+  },
+  {
+    "text": " go?",
+    "startMs": 5960,
+    "endMs": 6260,
+    "timestampMs": 6110,
+    "confidence": 0.8
+  },
+  {
+    "text": " About",
+    "startMs": 7160,
+    "endMs": 7800,
+    "timestampMs": 7480,
+    "confidence": 0.8
+  },
+  {
+    "text": " half…",
+    "startMs": 7800,
+    "endMs": 7880,
+    "timestampMs": 7840,
+    "confidence": 0.8
+  },
+  {
+    "text": " is",
+    "startMs": 7880,
+    "endMs": 8210,
+    "timestampMs": 8045,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 8210,
+    "endMs": 8410,
+    "timestampMs": 8310,
+    "confidence": 0.8
+  },
+  {
+    "text": " crude",
+    "startMs": 8410,
+    "endMs": 8640,
+    "timestampMs": 8525,
+    "confidence": 0.8
+  },
+  {
+    "text": " oil",
+    "startMs": 8640,
+    "endMs": 9010,
+    "timestampMs": 8825,
+    "confidence": 0.8
+  },
+  {
+    "text": " itself.",
+    "startMs": 9010,
+    "endMs": 9380,
+    "timestampMs": 9195,
+    "confidence": 0.8
+  },
+  {
+    "text": " Almost",
+    "startMs": 10150,
+    "endMs": 10470,
+    "timestampMs": 10310,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 10470,
+    "endMs": 10690,
+    "timestampMs": 10580,
+    "confidence": 0.8
+  },
+  {
+    "text": " quarter",
+    "startMs": 10690,
+    "endMs": 11180,
+    "timestampMs": 10935,
+    "confidence": 0.8
+  },
+  {
+    "text": " is",
+    "startMs": 11180,
+    "endMs": 11450,
+    "timestampMs": 11315,
+    "confidence": 0.8
+  },
+  {
+    "text": " refining",
+    "startMs": 11450,
+    "endMs": 11820,
+    "timestampMs": 11635,
+    "confidence": 0.8
+  },
+  {
+    "text": " it",
+    "startMs": 11820,
+    "endMs": 12120,
+    "timestampMs": 11970,
+    "confidence": 0.8
+  },
+  {
+    "text": " into",
+    "startMs": 12120,
+    "endMs": 12530,
+    "timestampMs": 12325,
+    "confidence": 0.8
+  },
+  {
+    "text": " gasoline.",
+    "startMs": 12530,
+    "endMs": 13010,
+    "timestampMs": 12770,
+    "confidence": 0.8
+  },
+  {
+    "text": " About",
+    "startMs": 13850,
+    "endMs": 14210,
+    "timestampMs": 14030,
+    "confidence": 0.8
+  },
+  {
+    "text": " 13¢",
+    "startMs": 14210,
+    "endMs": 14770,
+    "timestampMs": 14490,
+    "confidence": 0.8
+  },
+  {
+    "text": " of",
+    "startMs": 14770,
+    "endMs": 14960,
+    "timestampMs": 14865,
+    "confidence": 0.8
+  },
+  {
+    "text": " every",
+    "startMs": 14960,
+    "endMs": 15560,
+    "timestampMs": 15260,
+    "confidence": 0.8
+  },
+  {
+    "text": " dollar",
+    "startMs": 15560,
+    "endMs": 15980,
+    "timestampMs": 15770,
+    "confidence": 0.8
+  },
+  {
+    "text": " gets",
+    "startMs": 15980,
+    "endMs": 16170,
+    "timestampMs": 16075,
+    "confidence": 0.8
+  },
+  {
+    "text": " it",
+    "startMs": 16170,
+    "endMs": 16350,
+    "timestampMs": 16260,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 16350,
+    "endMs": 16500,
+    "timestampMs": 16425,
+    "confidence": 0.8
+  },
+  {
+    "text": " your",
+    "startMs": 16500,
+    "endMs": 16720,
+    "timestampMs": 16610,
+    "confidence": 0.8
+  },
+  {
+    "text": " station:",
+    "startMs": 16720,
+    "endMs": 17090,
+    "timestampMs": 16905,
+    "confidence": 0.8
+  },
+  {
+    "text": " pipelines,",
+    "startMs": 17530,
+    "endMs": 18710,
+    "timestampMs": 18120,
+    "confidence": 0.8
+  },
+  {
+    "text": " trucks,",
+    "startMs": 18710,
+    "endMs": 18930,
+    "timestampMs": 18820,
+    "confidence": 0.8
+  },
+  {
+    "text": " and",
+    "startMs": 18930,
+    "endMs": 19170,
+    "timestampMs": 19050,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 19170,
+    "endMs": 19380,
+    "timestampMs": 19275,
+    "confidence": 0.8
+  },
+  {
+    "text": " station's",
+    "startMs": 19380,
+    "endMs": 19980,
+    "timestampMs": 19680,
+    "confidence": 0.8
+  },
+  {
+    "text": " own",
+    "startMs": 19980,
+    "endMs": 20200,
+    "timestampMs": 20090,
+    "confidence": 0.8
+  },
+  {
+    "text": " costs.",
+    "startMs": 20200,
+    "endMs": 20530,
+    "timestampMs": 20365,
+    "confidence": 0.8
+  },
+  {
+    "text": " And",
+    "startMs": 20960,
+    "endMs": 21100,
+    "timestampMs": 21030,
+    "confidence": 0.8
+  },
+  {
+    "text": " another",
+    "startMs": 21100,
+    "endMs": 21710,
+    "timestampMs": 21405,
+    "confidence": 0.8
+  },
+  {
+    "text": " 13",
+    "startMs": 21710,
+    "endMs": 22180,
+    "timestampMs": 21945,
+    "confidence": 0.8
+  },
+  {
+    "text": " goes",
+    "startMs": 22180,
+    "endMs": 22280,
+    "timestampMs": 22230,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 22280,
+    "endMs": 22500,
+    "timestampMs": 22390,
+    "confidence": 0.8
+  },
+  {
+    "text": " federal",
+    "startMs": 22500,
+    "endMs": 23030,
+    "timestampMs": 22765,
+    "confidence": 0.8
+  },
+  {
+    "text": " and",
+    "startMs": 23030,
+    "endMs": 23230,
+    "timestampMs": 23130,
+    "confidence": 0.8
+  },
+  {
+    "text": " state",
+    "startMs": 23230,
+    "endMs": 23410,
+    "timestampMs": 23320,
+    "confidence": 0.8
+  },
+  {
+    "text": " taxes.",
+    "startMs": 23410,
+    "endMs": 23860,
+    "timestampMs": 23635,
+    "confidence": 0.8
+  },
+  {
+    "text": " Why",
+    "startMs": 24640,
+    "endMs": 24800,
+    "timestampMs": 24720,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 24800,
+    "endMs": 25000,
+    "timestampMs": 24900,
+    "confidence": 0.8
+  },
+  {
+    "text": " jump",
+    "startMs": 25000,
+    "endMs": 25220,
+    "timestampMs": 25110,
+    "confidence": 0.8
+  },
+  {
+    "text": " this",
+    "startMs": 25220,
+    "endMs": 25460,
+    "timestampMs": 25340,
+    "confidence": 0.8
+  },
+  {
+    "text": " year?",
+    "startMs": 25460,
+    "endMs": 25670,
+    "timestampMs": 25565,
+    "confidence": 0.8
+  },
+  {
+    "text": " After",
+    "startMs": 26440,
+    "endMs": 26780,
+    "timestampMs": 26610,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 26780,
+    "endMs": 27040,
+    "timestampMs": 26910,
+    "confidence": 0.8
+  },
+  {
+    "text": " Iran",
+    "startMs": 27040,
+    "endMs": 27360,
+    "timestampMs": 27200,
+    "confidence": 0.8
+  },
+  {
+    "text": " war",
+    "startMs": 27360,
+    "endMs": 27590,
+    "timestampMs": 27475,
+    "confidence": 0.8
+  },
+  {
+    "text": " began",
+    "startMs": 27590,
+    "endMs": 27960,
+    "timestampMs": 27775,
+    "confidence": 0.8
+  },
+  {
+    "text": " in",
+    "startMs": 27960,
+    "endMs": 28150,
+    "timestampMs": 28055,
+    "confidence": 0.8
+  },
+  {
+    "text": " February,",
+    "startMs": 28150,
+    "endMs": 28800,
+    "timestampMs": 28475,
+    "confidence": 0.8
+  },
+  {
+    "text": " shipping",
+    "startMs": 29030,
+    "endMs": 29460,
+    "timestampMs": 29245,
+    "confidence": 0.8
+  },
+  {
+    "text": " through",
+    "startMs": 29460,
+    "endMs": 29650,
+    "timestampMs": 29555,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 29650,
+    "endMs": 29840,
+    "timestampMs": 29745,
+    "confidence": 0.8
+  },
+  {
+    "text": " Strait",
+    "startMs": 29840,
+    "endMs": 30120,
+    "timestampMs": 29980,
+    "confidence": 0.8
+  },
+  {
+    "text": " of",
+    "startMs": 30120,
+    "endMs": 30200,
+    "timestampMs": 30160,
+    "confidence": 0.8
+  },
+  {
+    "text": " Hormuz",
+    "startMs": 30200,
+    "endMs": 30520,
+    "timestampMs": 30360,
+    "confidence": 0.8
+  },
+  {
+    "text": " was",
+    "startMs": 30520,
+    "endMs": 30720,
+    "timestampMs": 30620,
+    "confidence": 0.8
+  },
+  {
+    "text": " disrupted…",
+    "startMs": 30720,
+    "endMs": 31340,
+    "timestampMs": 31030,
+    "confidence": 0.8
+  },
+  {
+    "text": " and",
+    "startMs": 31780,
+    "endMs": 32020,
+    "timestampMs": 31900,
+    "confidence": 0.8
+  },
+  {
+    "text": " crude",
+    "startMs": 32020,
+    "endMs": 32270,
+    "timestampMs": 32145,
+    "confidence": 0.8
+  },
+  {
+    "text": " prices",
+    "startMs": 32270,
+    "endMs": 32770,
+    "timestampMs": 32520,
+    "confidence": 0.8
+  },
+  {
+    "text": " spiked.",
+    "startMs": 32770,
+    "endMs": 33270,
+    "timestampMs": 33020,
+    "confidence": 0.8
+  },
+  {
+    "text": " Gas",
+    "startMs": 33950,
+    "endMs": 34200,
+    "timestampMs": 34075,
+    "confidence": 0.8
+  },
+  {
+    "text": " peaked",
+    "startMs": 34200,
+    "endMs": 34510,
+    "timestampMs": 34355,
+    "confidence": 0.8
+  },
+  {
+    "text": " at",
+    "startMs": 34510,
+    "endMs": 34740,
+    "timestampMs": 34625,
+    "confidence": 0.8
+  },
+  {
+    "text": " $4.56",
+    "startMs": 34740,
+    "endMs": 35600,
+    "timestampMs": 35170,
+    "confidence": 0.8
+  },
+  {
+    "text": " in",
+    "startMs": 35600,
+    "endMs": 35950,
+    "timestampMs": 35775,
+    "confidence": 0.8
+  },
+  {
+    "text": " May.",
+    "startMs": 35950,
+    "endMs": 36030,
+    "timestampMs": 35990,
+    "confidence": 0.8
+  },
+  {
+    "text": " And",
+    "startMs": 37140,
+    "endMs": 37360,
+    "timestampMs": 37250,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 37360,
+    "endMs": 37550,
+    "timestampMs": 37455,
+    "confidence": 0.8
+  },
+  {
+    "text": " station",
+    "startMs": 37550,
+    "endMs": 38180,
+    "timestampMs": 37865,
+    "confidence": 0.8
+  },
+  {
+    "text": " owner",
+    "startMs": 38180,
+    "endMs": 38390,
+    "timestampMs": 38285,
+    "confidence": 0.8
+  },
+  {
+    "text": " often",
+    "startMs": 38390,
+    "endMs": 38810,
+    "timestampMs": 38600,
+    "confidence": 0.8
+  },
+  {
+    "text": " makes",
+    "startMs": 38810,
+    "endMs": 39270,
+    "timestampMs": 39040,
+    "confidence": 0.8
+  },
+  {
+    "text": " just",
+    "startMs": 39270,
+    "endMs": 39430,
+    "timestampMs": 39350,
+    "confidence": 0.8
+  },
+  {
+    "text": " cents",
+    "startMs": 39430,
+    "endMs": 39650,
+    "timestampMs": 39540,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 39650,
+    "endMs": 39880,
+    "timestampMs": 39765,
+    "confidence": 0.8
+  },
+  {
+    "text": " gallon",
+    "startMs": 39880,
+    "endMs": 40300,
+    "timestampMs": 40090,
+    "confidence": 0.8
+  },
+  {
+    "text": " on",
+    "startMs": 40300,
+    "endMs": 40500,
+    "timestampMs": 40400,
+    "confidence": 0.8
+  },
+  {
+    "text": " fuel.",
+    "startMs": 40500,
+    "endMs": 40760,
+    "timestampMs": 40630,
+    "confidence": 0.8
+  },
+  {
+    "text": " The",
+    "startMs": 41250,
+    "endMs": 41430,
+    "timestampMs": 41340,
+    "confidence": 0.8
+  },
+  {
+    "text": " real",
+    "startMs": 41430,
+    "endMs": 41710,
+    "timestampMs": 41570,
+    "confidence": 0.8
+  },
+  {
+    "text": " money",
+    "startMs": 41710,
+    "endMs": 42160,
+    "timestampMs": 41935,
+    "confidence": 0.8
+  },
+  {
+    "text": " is",
+    "startMs": 42160,
+    "endMs": 42250,
+    "timestampMs": 42205,
+    "confidence": 0.8
+  },
+  {
+    "text": " inside:",
+    "startMs": 42250,
+    "endMs": 42730,
+    "timestampMs": 42490,
+    "confidence": 0.8
+  },
+  {
+    "text": " coffee…",
+    "startMs": 43190,
+    "endMs": 43780,
+    "timestampMs": 43485,
+    "confidence": 0.8
+  },
+  {
+    "text": " snacks…",
+    "startMs": 43880,
+    "endMs": 44550,
+    "timestampMs": 44215,
+    "confidence": 0.8
+  },
+  {
+    "text": " energy",
+    "startMs": 44770,
+    "endMs": 45320,
+    "timestampMs": 45045,
+    "confidence": 0.8
+  },
+  {
+    "text": " drinks.",
+    "startMs": 45320,
+    "endMs": 45470,
+    "timestampMs": 45395,
+    "confidence": 0.8
+  },
+  {
+    "text": " The",
+    "startMs": 46190,
+    "endMs": 46430,
+    "timestampMs": 46310,
+    "confidence": 0.8
+  },
+  {
+    "text": " pump",
+    "startMs": 46430,
+    "endMs": 46670,
+    "timestampMs": 46550,
+    "confidence": 0.8
+  },
+  {
+    "text": " is",
+    "startMs": 46670,
+    "endMs": 46950,
+    "timestampMs": 46810,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 46950,
+    "endMs": 47260,
+    "timestampMs": 47105,
+    "confidence": 0.8
+  },
+  {
+    "text": " last",
+    "startMs": 47260,
+    "endMs": 47470,
+    "timestampMs": 47365,
+    "confidence": 0.8
+  },
+  {
+    "text": " gear…",
+    "startMs": 47470,
+    "endMs": 47800,
+    "timestampMs": 47635,
+    "confidence": 0.8
+  },
+  {
+    "text": " in",
+    "startMs": 48090,
+    "endMs": 48290,
+    "timestampMs": 48190,
+    "confidence": 0.8
+  },
+  {
+    "text": " a",
+    "startMs": 48290,
+    "endMs": 48430,
+    "timestampMs": 48360,
+    "confidence": 0.8
+  },
+  {
+    "text": " very",
+    "startMs": 48430,
+    "endMs": 48860,
+    "timestampMs": 48645,
+    "confidence": 0.8
+  },
+  {
+    "text": " long",
+    "startMs": 48860,
+    "endMs": 49040,
+    "timestampMs": 48950,
+    "confidence": 0.8
+  },
+  {
+    "text": " machine.",
+    "startMs": 49040,
+    "endMs": 49480,
+    "timestampMs": 49260,
+    "confidence": 0.8
+  }
+]

@@ -9,7 +9,8 @@ export const RemotionRoot: React.FC = () => {
     <>
       <Folder name="Videos">
         {videos.map((v) => {
-          const { width, height } = FORMATS[v.format ?? "reels"];
+          // Story episodes ("MM-Story…") are always vertical Reels (1080×1920, 9:16) for mobile.
+          const { width, height } = FORMATS[v.id.startsWith("MM-Story") ? "reels" : (v.format ?? "reels")];
           return (
             <Composition
               key={v.id}

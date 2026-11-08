@@ -31,7 +31,8 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc",
-    "render": "remotion render"
+    "render": "remotion render",
+    "voice": "node scripts/voice/generate.mjs"
   },
   "allowScripts": {
     "esbuild": false

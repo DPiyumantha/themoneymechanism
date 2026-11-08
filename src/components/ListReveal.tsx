@@ -10,6 +10,8 @@ export type ListRevealProps = {
   every?: number;
   /** Highlight the item currently being talked about. Default true. */
   focusCurrent?: boolean;
+  /** Exact frame for each item (overrides delay/every), to match uneven voice-over timing. */
+  at?: number[];
 };
 
 /** Numbered points revealed one at a time: "3 ways they get you to spend more". */
@@ -18,17 +20,22 @@ export const ListReveal: React.FC<ListRevealProps> = ({
   delay = 0,
   every = 20,
   focusCurrent = true,
+  at,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const s = useScale();
   const c = theme.colors;
-  const current = Math.min(items.length - 1, Math.floor((frame - delay) / every));
+  const startOf = (i: number) => at?.[i] ?? delay + i * every;
+  let current = 0;
+  items.forEach((_, i) => {
+    if (frame >= startOf(i)) current = i;
+  });
 
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 30 * s }}>
       {items.map((item, i) => {
-        const p = spring({ frame: frame - delay - i * every, fps, config: theme.motion.spring });
+        const p = spring({ frame: frame - startOf(i), fps, config: theme.motion.spring });
         const dim = focusCurrent && i < current;
         return (
           <div

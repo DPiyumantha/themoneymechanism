@@ -21,4 +21,8 @@ Project map:
 | `public/brand/money-mechanism-logo.png` | Logo PNG |
 | `public/fonts/` | Sora + Inter (bundled, offline) |
 | `public/videos/<slug>/` | Voice-over and images per video |
-| `public/music/` | Licensed music |
+| `public/music/` | Licensed music, plus original tracks made by `scripts/audio/music.mjs` |
+| `public/sfx/` | Original SFX pack made by `scripts/audio/sfx.mjs` (see its README) |
+| `scripts/audio/` | Synthesizes original music and SFX (no samples): `node scripts/audio/<file>.mjs` |
+| `scripts/voice/generate.mjs` | Gemini TTS voice-overs: `npm run voice -- <slug>` reads `src/videos/<slug>/voice.md`, writes `public/videos/<slug>/voiceover.mp3` |
+| `.env` | `GEMINI_API_KEY` (never commit it; it's in .gitignore) |

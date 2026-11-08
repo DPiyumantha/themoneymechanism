@@ -1,0 +1,765 @@
+[
+  {
+    "text": "Costco",
+    "startMs": 280,
+    "endMs": 810,
+    "timestampMs": 545,
+    "confidence": 0.8
+  },
+  {
+    "text": " barely",
+    "startMs": 810,
+    "endMs": 1320,
+    "timestampMs": 1065,
+    "confidence": 0.8
+  },
+  {
+    "text": " profits",
+    "startMs": 1320,
+    "endMs": 1690,
+    "timestampMs": 1505,
+    "confidence": 0.8
+  },
+  {
+    "text": " on",
+    "startMs": 1690,
+    "endMs": 1910,
+    "timestampMs": 1800,
+    "confidence": 0.8
+  },
+  {
+    "text": " groceries.",
+    "startMs": 1910,
+    "endMs": 2510,
+    "timestampMs": 2210,
+    "confidence": 0.8
+  },
+  {
+    "text": " Seriously.",
+    "startMs": 3220,
+    "endMs": 3800,
+    "timestampMs": 3510,
+    "confidence": 0.8
+  },
+  {
+    "text": " Costco",
+    "startMs": 4210,
+    "endMs": 4600,
+    "timestampMs": 4405,
+    "confidence": 0.8
+  },
+  {
+    "text": " keeps",
+    "startMs": 4600,
+    "endMs": 4820,
+    "timestampMs": 4710,
+    "confidence": 0.8
+  },
+  {
+    "text": " its",
+    "startMs": 4820,
+    "endMs": 4960,
+    "timestampMs": 4890,
+    "confidence": 0.8
+  },
+  {
+    "text": " markups",
+    "startMs": 4960,
+    "endMs": 5410,
+    "timestampMs": 5185,
+    "confidence": 0.8
+  },
+  {
+    "text": " low",
+    "startMs": 5410,
+    "endMs": 5720,
+    "timestampMs": 5565,
+    "confidence": 0.8
+  },
+  {
+    "text": " on",
+    "startMs": 5720,
+    "endMs": 5940,
+    "timestampMs": 5830,
+    "confidence": 0.8
+  },
+  {
+    "text": " almost",
+    "startMs": 5940,
+    "endMs": 6230,
+    "timestampMs": 6085,
+    "confidence": 0.8
+  },
+  {
+    "text": " everything",
+    "startMs": 6230,
+    "endMs": 6980,
+    "timestampMs": 6605,
+    "confidence": 0.8
+  },
+  {
+    "text": " in",
+    "startMs": 6980,
+    "endMs": 7180,
+    "timestampMs": 7080,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 7180,
+    "endMs": 7480,
+    "timestampMs": 7330,
+    "confidence": 0.8
+  },
+  {
+    "text": " warehouse.",
+    "startMs": 7480,
+    "endMs": 8050,
+    "timestampMs": 7765,
+    "confidence": 0.8
+  },
+  {
+    "text": " So",
+    "startMs": 8790,
+    "endMs": 8950,
+    "timestampMs": 8870,
+    "confidence": 0.8
+  },
+  {
+    "text": " where",
+    "startMs": 8950,
+    "endMs": 9180,
+    "timestampMs": 9065,
+    "confidence": 0.8
+  },
+  {
+    "text": " does",
+    "startMs": 9180,
+    "endMs": 9410,
+    "timestampMs": 9295,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 9410,
+    "endMs": 9570,
+    "timestampMs": 9490,
+    "confidence": 0.8
+  },
+  {
+    "text": " profit",
+    "startMs": 9570,
+    "endMs": 9990,
+    "timestampMs": 9780,
+    "confidence": 0.8
+  },
+  {
+    "text": " come",
+    "startMs": 9990,
+    "endMs": 10370,
+    "timestampMs": 10180,
+    "confidence": 0.8
+  },
+  {
+    "text": " from?",
+    "startMs": 10370,
+    "endMs": 10450,
+    "timestampMs": 10410,
+    "confidence": 0.8
+  },
+  {
+    "text": " The",
+    "startMs": 11400,
+    "endMs": 11550,
+    "timestampMs": 11475,
+    "confidence": 0.8
+  },
+  {
+    "text": " card",
+    "startMs": 11550,
+    "endMs": 11730,
+    "timestampMs": 11640,
+    "confidence": 0.8
+  },
+  {
+    "text": " in",
+    "startMs": 11730,
+    "endMs": 11960,
+    "timestampMs": 11845,
+    "confidence": 0.8
+  },
+  {
+    "text": " your",
+    "startMs": 11960,
+    "endMs": 12090,
+    "timestampMs": 12025,
+    "confidence": 0.8
+  },
+  {
+    "text": " wallet.",
+    "startMs": 12090,
+    "endMs": 12510,
+    "timestampMs": 12300,
+    "confidence": 0.8
+  },
+  {
+    "text": " Membership",
+    "startMs": 13200,
+    "endMs": 13970,
+    "timestampMs": 13585,
+    "confidence": 0.8
+  },
+  {
+    "text": " fees",
+    "startMs": 13970,
+    "endMs": 14120,
+    "timestampMs": 14045,
+    "confidence": 0.8
+  },
+  {
+    "text": " brought",
+    "startMs": 14120,
+    "endMs": 14440,
+    "timestampMs": 14280,
+    "confidence": 0.8
+  },
+  {
+    "text": " in",
+    "startMs": 14440,
+    "endMs": 14550,
+    "timestampMs": 14495,
+    "confidence": 0.8
+  },
+  {
+    "text": " $5.9",
+    "startMs": 14550,
+    "endMs": 15490,
+    "timestampMs": 15020,
+    "confidence": 0.8
+  },
+  {
+    "text": " billion",
+    "startMs": 15490,
+    "endMs": 16460,
+    "timestampMs": 15975,
+    "confidence": 0.8
+  },
+  {
+    "text": " last",
+    "startMs": 16460,
+    "endMs": 16700,
+    "timestampMs": 16580,
+    "confidence": 0.8
+  },
+  {
+    "text": " year…",
+    "startMs": 16700,
+    "endMs": 16950,
+    "timestampMs": 16825,
+    "confidence": 0.8
+  },
+  {
+    "text": " compared",
+    "startMs": 17500,
+    "endMs": 18080,
+    "timestampMs": 17790,
+    "confidence": 0.8
+  },
+  {
+    "text": " with",
+    "startMs": 18080,
+    "endMs": 18260,
+    "timestampMs": 18170,
+    "confidence": 0.8
+  },
+  {
+    "text": " total",
+    "startMs": 18260,
+    "endMs": 18580,
+    "timestampMs": 18420,
+    "confidence": 0.8
+  },
+  {
+    "text": " net",
+    "startMs": 18580,
+    "endMs": 18770,
+    "timestampMs": 18675,
+    "confidence": 0.8
+  },
+  {
+    "text": " income",
+    "startMs": 18770,
+    "endMs": 19230,
+    "timestampMs": 19000,
+    "confidence": 0.8
+  },
+  {
+    "text": " of",
+    "startMs": 19230,
+    "endMs": 19350,
+    "timestampMs": 19290,
+    "confidence": 0.8
+  },
+  {
+    "text": " $9.2",
+    "startMs": 19350,
+    "endMs": 19920,
+    "timestampMs": 19635,
+    "confidence": 0.8
+  },
+  {
+    "text": " billion.",
+    "startMs": 19920,
+    "endMs": 20360,
+    "timestampMs": 20140,
+    "confidence": 0.8
+  },
+  {
+    "text": " That's",
+    "startMs": 21010,
+    "endMs": 21160,
+    "timestampMs": 21085,
+    "confidence": 0.8
+  },
+  {
+    "text": " equal",
+    "startMs": 21160,
+    "endMs": 21580,
+    "timestampMs": 21370,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 21580,
+    "endMs": 21860,
+    "timestampMs": 21720,
+    "confidence": 0.8
+  },
+  {
+    "text": " almost",
+    "startMs": 21860,
+    "endMs": 22300,
+    "timestampMs": 22080,
+    "confidence": 0.8
+  },
+  {
+    "text": " two-thirds",
+    "startMs": 22300,
+    "endMs": 22580,
+    "timestampMs": 22440,
+    "confidence": 0.8
+  },
+  {
+    "text": " of",
+    "startMs": 22580,
+    "endMs": 22840,
+    "timestampMs": 22710,
+    "confidence": 0.8
+  },
+  {
+    "text": " its",
+    "startMs": 22840,
+    "endMs": 23020,
+    "timestampMs": 22930,
+    "confidence": 0.8
+  },
+  {
+    "text": " profit.",
+    "startMs": 23020,
+    "endMs": 23460,
+    "timestampMs": 23240,
+    "confidence": 0.8
+  },
+  {
+    "text": " And",
+    "startMs": 23870,
+    "endMs": 24220,
+    "timestampMs": 24045,
+    "confidence": 0.8
+  },
+  {
+    "text": " it",
+    "startMs": 24220,
+    "endMs": 24450,
+    "timestampMs": 24335,
+    "confidence": 0.8
+  },
+  {
+    "text": " works",
+    "startMs": 24450,
+    "endMs": 24830,
+    "timestampMs": 24640,
+    "confidence": 0.8
+  },
+  {
+    "text": " because",
+    "startMs": 24830,
+    "endMs": 25410,
+    "timestampMs": 25120,
+    "confidence": 0.8
+  },
+  {
+    "text": " of",
+    "startMs": 25410,
+    "endMs": 25540,
+    "timestampMs": 25475,
+    "confidence": 0.8
+  },
+  {
+    "text": " three",
+    "startMs": 25540,
+    "endMs": 25960,
+    "timestampMs": 25750,
+    "confidence": 0.8
+  },
+  {
+    "text": " gears.",
+    "startMs": 25960,
+    "endMs": 26180,
+    "timestampMs": 26070,
+    "confidence": 0.8
+  },
+  {
+    "text": " You",
+    "startMs": 26730,
+    "endMs": 26870,
+    "timestampMs": 26800,
+    "confidence": 0.8
+  },
+  {
+    "text": " pay",
+    "startMs": 26870,
+    "endMs": 27100,
+    "timestampMs": 26985,
+    "confidence": 0.8
+  },
+  {
+    "text": " up",
+    "startMs": 27100,
+    "endMs": 27250,
+    "timestampMs": 27175,
+    "confidence": 0.8
+  },
+  {
+    "text": " front,",
+    "startMs": 27250,
+    "endMs": 27500,
+    "timestampMs": 27375,
+    "confidence": 0.8
+  },
+  {
+    "text": " so",
+    "startMs": 27800,
+    "endMs": 27900,
+    "timestampMs": 27850,
+    "confidence": 0.8
+  },
+  {
+    "text": " you",
+    "startMs": 27900,
+    "endMs": 28090,
+    "timestampMs": 27995,
+    "confidence": 0.8
+  },
+  {
+    "text": " want",
+    "startMs": 28090,
+    "endMs": 28230,
+    "timestampMs": 28160,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 28230,
+    "endMs": 28440,
+    "timestampMs": 28335,
+    "confidence": 0.8
+  },
+  {
+    "text": " get",
+    "startMs": 28440,
+    "endMs": 28560,
+    "timestampMs": 28500,
+    "confidence": 0.8
+  },
+  {
+    "text": " your",
+    "startMs": 28560,
+    "endMs": 28760,
+    "timestampMs": 28660,
+    "confidence": 0.8
+  },
+  {
+    "text": " money's",
+    "startMs": 28760,
+    "endMs": 29070,
+    "timestampMs": 28915,
+    "confidence": 0.8
+  },
+  {
+    "text": " worth.",
+    "startMs": 29070,
+    "endMs": 29220,
+    "timestampMs": 29145,
+    "confidence": 0.8
+  },
+  {
+    "text": " You",
+    "startMs": 30040,
+    "endMs": 30230,
+    "timestampMs": 30135,
+    "confidence": 0.8
+  },
+  {
+    "text": " shop",
+    "startMs": 30230,
+    "endMs": 30400,
+    "timestampMs": 30315,
+    "confidence": 0.8
+  },
+  {
+    "text": " there",
+    "startMs": 30400,
+    "endMs": 30560,
+    "timestampMs": 30480,
+    "confidence": 0.8
+  },
+  {
+    "text": " more",
+    "startMs": 30560,
+    "endMs": 30760,
+    "timestampMs": 30660,
+    "confidence": 0.8
+  },
+  {
+    "text": " often,",
+    "startMs": 30760,
+    "endMs": 31200,
+    "timestampMs": 30980,
+    "confidence": 0.8
+  },
+  {
+    "text": " so",
+    "startMs": 31550,
+    "endMs": 31760,
+    "timestampMs": 31655,
+    "confidence": 0.8
+  },
+  {
+    "text": " you",
+    "startMs": 31760,
+    "endMs": 31950,
+    "timestampMs": 31855,
+    "confidence": 0.8
+  },
+  {
+    "text": " buy",
+    "startMs": 31950,
+    "endMs": 32320,
+    "timestampMs": 32135,
+    "confidence": 0.8
+  },
+  {
+    "text": " more.",
+    "startMs": 32320,
+    "endMs": 32400,
+    "timestampMs": 32360,
+    "confidence": 0.8
+  },
+  {
+    "text": " And",
+    "startMs": 32860,
+    "endMs": 33110,
+    "timestampMs": 32985,
+    "confidence": 0.8
+  },
+  {
+    "text": " most",
+    "startMs": 33110,
+    "endMs": 33550,
+    "timestampMs": 33330,
+    "confidence": 0.8
+  },
+  {
+    "text": " members",
+    "startMs": 33550,
+    "endMs": 34090,
+    "timestampMs": 33820,
+    "confidence": 0.8
+  },
+  {
+    "text": " renew,",
+    "startMs": 34090,
+    "endMs": 34550,
+    "timestampMs": 34320,
+    "confidence": 0.8
+  },
+  {
+    "text": " year",
+    "startMs": 34850,
+    "endMs": 35030,
+    "timestampMs": 34940,
+    "confidence": 0.8
+  },
+  {
+    "text": " after",
+    "startMs": 35030,
+    "endMs": 35550,
+    "timestampMs": 35290,
+    "confidence": 0.8
+  },
+  {
+    "text": " year.",
+    "startMs": 35550,
+    "endMs": 35800,
+    "timestampMs": 35675,
+    "confidence": 0.8
+  },
+  {
+    "text": " Costco",
+    "startMs": 36700,
+    "endMs": 37100,
+    "timestampMs": 36900,
+    "confidence": 0.8
+  },
+  {
+    "text": " doesn't",
+    "startMs": 37100,
+    "endMs": 37490,
+    "timestampMs": 37295,
+    "confidence": 0.8
+  },
+  {
+    "text": " need",
+    "startMs": 37490,
+    "endMs": 37570,
+    "timestampMs": 37530,
+    "confidence": 0.8
+  },
+  {
+    "text": " you",
+    "startMs": 37570,
+    "endMs": 37790,
+    "timestampMs": 37680,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 37790,
+    "endMs": 38060,
+    "timestampMs": 37925,
+    "confidence": 0.8
+  },
+  {
+    "text": " love",
+    "startMs": 38060,
+    "endMs": 38390,
+    "timestampMs": 38225,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 38390,
+    "endMs": 38480,
+    "timestampMs": 38435,
+    "confidence": 0.8
+  },
+  {
+    "text": " groceries.",
+    "startMs": 38480,
+    "endMs": 39220,
+    "timestampMs": 38850,
+    "confidence": 0.8
+  },
+  {
+    "text": " It",
+    "startMs": 39560,
+    "endMs": 39710,
+    "timestampMs": 39635,
+    "confidence": 0.8
+  },
+  {
+    "text": " needs",
+    "startMs": 39710,
+    "endMs": 39910,
+    "timestampMs": 39810,
+    "confidence": 0.8
+  },
+  {
+    "text": " you",
+    "startMs": 39910,
+    "endMs": 40150,
+    "timestampMs": 40030,
+    "confidence": 0.8
+  },
+  {
+    "text": " to",
+    "startMs": 40150,
+    "endMs": 40400,
+    "timestampMs": 40275,
+    "confidence": 0.8
+  },
+  {
+    "text": " come",
+    "startMs": 40400,
+    "endMs": 40600,
+    "timestampMs": 40500,
+    "confidence": 0.8
+  },
+  {
+    "text": " back.",
+    "startMs": 40600,
+    "endMs": 40790,
+    "timestampMs": 40695,
+    "confidence": 0.8
+  },
+  {
+    "text": " You're",
+    "startMs": 42850,
+    "endMs": 43190,
+    "timestampMs": 43020,
+    "confidence": 0.8
+  },
+  {
+    "text": " not",
+    "startMs": 43190,
+    "endMs": 43270,
+    "timestampMs": 43230,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 43270,
+    "endMs": 43350,
+    "timestampMs": 43310,
+    "confidence": 0.8
+  },
+  {
+    "text": " customer.",
+    "startMs": 43350,
+    "endMs": 43710,
+    "timestampMs": 43530,
+    "confidence": 0.8
+  },
+  {
+    "text": " You're",
+    "startMs": 44520,
+    "endMs": 44680,
+    "timestampMs": 44600,
+    "confidence": 0.8
+  },
+  {
+    "text": " the",
+    "startMs": 44680,
+    "endMs": 44920,
+    "timestampMs": 44800,
+    "confidence": 0.8
+  },
+  {
+    "text": " subscriber.",
+    "startMs": 44920,
+    "endMs": 45390,
+    "timestampMs": 45155,
+    "confidence": 0.8
+  }
+]
