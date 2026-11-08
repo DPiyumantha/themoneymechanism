@@ -1,0 +1,922 @@
+[
+  {
+    "text": "Watch",
+    "startMs": 219,
+    "endMs": 495,
+    "timestampMs": 357,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " this.",
+    "startMs": 495,
+    "endMs": 793,
+    "timestampMs": 644,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " Fifty",
+    "startMs": 1181,
+    "endMs": 1281,
+    "timestampMs": 1231,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " bucks",
+    "startMs": 1281,
+    "endMs": 1381,
+    "timestampMs": 1331,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " on",
+    "startMs": 1381,
+    "endMs": 1603,
+    "timestampMs": 1492,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " the",
+    "startMs": 1603,
+    "endMs": 1879,
+    "timestampMs": 1741,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " coffee",
+    "startMs": 1879,
+    "endMs": 2156,
+    "timestampMs": 2018,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " app.",
+    "startMs": 2156,
+    "endMs": 2979,
+    "timestampMs": 2568,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " Now",
+    "startMs": 3251,
+    "endMs": 3351,
+    "timestampMs": 3301,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " I",
+    "startMs": 3351,
+    "endMs": 3451,
+    "timestampMs": 3401,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " never",
+    "startMs": 3451,
+    "endMs": 3551,
+    "timestampMs": 3501,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " have",
+    "startMs": 3551,
+    "endMs": 3651,
+    "timestampMs": 3601,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " to",
+    "startMs": 3651,
+    "endMs": 3817,
+    "timestampMs": 3734,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " think",
+    "startMs": 3817,
+    "endMs": 4094,
+    "timestampMs": 3956,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " about",
+    "startMs": 4094,
+    "endMs": 4371,
+    "timestampMs": 4233,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " it.",
+    "startMs": 4371,
+    "endMs": 4648,
+    "timestampMs": 4510,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "Congratulations.",
+    "startMs": 4927,
+    "endMs": 6396,
+    "timestampMs": 5662,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " You",
+    "startMs": 6602,
+    "endMs": 6702,
+    "timestampMs": 6652,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " just",
+    "startMs": 6702,
+    "endMs": 6802,
+    "timestampMs": 6752,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " made",
+    "startMs": 6802,
+    "endMs": 6902,
+    "timestampMs": 6852,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " a",
+    "startMs": 6902,
+    "endMs": 7002,
+    "timestampMs": 6952,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " deposit.",
+    "startMs": 7002,
+    "endMs": 7667,
+    "timestampMs": 7335,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "A",
+    "startMs": 8118,
+    "endMs": 8220,
+    "timestampMs": 8169,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " deposit?",
+    "startMs": 8220,
+    "endMs": 9104,
+    "timestampMs": 8662,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "Starbucks",
+    "startMs": 9584,
+    "endMs": 9931,
+    "timestampMs": 9758,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " has",
+    "startMs": 9931,
+    "endMs": 10278,
+    "timestampMs": 10105,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " your",
+    "startMs": 10278,
+    "endMs": 10625,
+    "timestampMs": 10452,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " fifty",
+    "startMs": 10625,
+    "endMs": 10972,
+    "timestampMs": 10799,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " dollars",
+    "startMs": 10972,
+    "endMs": 11320,
+    "timestampMs": 11146,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " now.",
+    "startMs": 11320,
+    "endMs": 11720,
+    "timestampMs": 11520,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " Before",
+    "startMs": 12219,
+    "endMs": 12319,
+    "timestampMs": 12269,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you've",
+    "startMs": 12319,
+    "endMs": 12419,
+    "timestampMs": 12369,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " had",
+    "startMs": 12419,
+    "endMs": 12708,
+    "timestampMs": 12564,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " a",
+    "startMs": 12708,
+    "endMs": 13056,
+    "timestampMs": 12882,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " single",
+    "startMs": 13056,
+    "endMs": 13403,
+    "timestampMs": 13230,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " coffee.",
+    "startMs": 13403,
+    "endMs": 13750,
+    "timestampMs": 13577,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "Yeah,",
+    "startMs": 14219,
+    "endMs": 14889,
+    "timestampMs": 14554,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " but",
+    "startMs": 15096,
+    "endMs": 15196,
+    "timestampMs": 15146,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " I'll",
+    "startMs": 15196,
+    "endMs": 15296,
+    "timestampMs": 15246,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " drink",
+    "startMs": 15296,
+    "endMs": 15396,
+    "timestampMs": 15346,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " it.",
+    "startMs": 15396,
+    "endMs": 15601,
+    "timestampMs": 15499,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "Probably.",
+    "startMs": 16068,
+    "endMs": 16588,
+    "timestampMs": 16328,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " Now",
+    "startMs": 17153,
+    "endMs": 17271,
+    "timestampMs": 17212,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " multiply",
+    "startMs": 17271,
+    "endMs": 17837,
+    "timestampMs": 17554,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you",
+    "startMs": 17837,
+    "endMs": 18155,
+    "timestampMs": 17996,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " by",
+    "startMs": 18155,
+    "endMs": 18351,
+    "timestampMs": 18253,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " millions",
+    "startMs": 18351,
+    "endMs": 19153,
+    "timestampMs": 18752,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " of",
+    "startMs": 19153,
+    "endMs": 19358,
+    "timestampMs": 19256,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " people.",
+    "startMs": 19358,
+    "endMs": 20006,
+    "timestampMs": 19682,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "Starbucks",
+    "startMs": 20316,
+    "endMs": 20855,
+    "timestampMs": 20586,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " is",
+    "startMs": 20855,
+    "endMs": 21028,
+    "timestampMs": 20942,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " holding",
+    "startMs": 21028,
+    "endMs": 21491,
+    "timestampMs": 21260,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " about",
+    "startMs": 21491,
+    "endMs": 21750,
+    "timestampMs": 21621,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " one",
+    "startMs": 21750,
+    "endMs": 21991,
+    "timestampMs": 21871,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " point",
+    "startMs": 21991,
+    "endMs": 22280,
+    "timestampMs": 22136,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " seven",
+    "startMs": 22280,
+    "endMs": 22627,
+    "timestampMs": 22454,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " five",
+    "startMs": 22627,
+    "endMs": 23156,
+    "timestampMs": 22892,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " billion",
+    "startMs": 23156,
+    "endMs": 23772,
+    "timestampMs": 23464,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " dollars",
+    "startMs": 23772,
+    "endMs": 24119,
+    "timestampMs": 23946,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " in",
+    "startMs": 24119,
+    "endMs": 24379,
+    "timestampMs": 24249,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " unspent",
+    "startMs": 24379,
+    "endMs": 24831,
+    "timestampMs": 24605,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " card",
+    "startMs": 24831,
+    "endMs": 25149,
+    "timestampMs": 24990,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " balances",
+    "startMs": 25149,
+    "endMs": 25746,
+    "timestampMs": 25448,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " and",
+    "startMs": 25746,
+    "endMs": 25986,
+    "timestampMs": 25866,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " rewards.",
+    "startMs": 25986,
+    "endMs": 26992,
+    "timestampMs": 26489,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " A",
+    "startMs": 27352,
+    "endMs": 27452,
+    "timestampMs": 27402,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " bank",
+    "startMs": 27452,
+    "endMs": 27552,
+    "timestampMs": 27502,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " would",
+    "startMs": 27552,
+    "endMs": 27652,
+    "timestampMs": 27602,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " pay",
+    "startMs": 27652,
+    "endMs": 27752,
+    "timestampMs": 27702,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you",
+    "startMs": 27752,
+    "endMs": 27854,
+    "timestampMs": 27803,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " interest",
+    "startMs": 27854,
+    "endMs": 28047,
+    "timestampMs": 27951,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " on",
+    "startMs": 28047,
+    "endMs": 28326,
+    "timestampMs": 28187,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " that.",
+    "startMs": 28326,
+    "endMs": 28690,
+    "timestampMs": 28508,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " Starbucks",
+    "startMs": 28907,
+    "endMs": 29500,
+    "timestampMs": 29204,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " doesn't.",
+    "startMs": 29500,
+    "endMs": 29828,
+    "timestampMs": 29664,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " It",
+    "startMs": 30045,
+    "endMs": 30145,
+    "timestampMs": 30095,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " just",
+    "startMs": 30145,
+    "endMs": 30245,
+    "timestampMs": 30195,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " gets",
+    "startMs": 30245,
+    "endMs": 30345,
+    "timestampMs": 30295,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " to",
+    "startMs": 30345,
+    "endMs": 30445,
+    "timestampMs": 30395,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " use",
+    "startMs": 30445,
+    "endMs": 30627,
+    "timestampMs": 30536,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 30627,
+    "endMs": 30742,
+    "timestampMs": 30685,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " money.",
+    "startMs": 30742,
+    "endMs": 31176,
+    "timestampMs": 30959,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "And",
+    "startMs": 31725,
+    "endMs": 31850,
+    "timestampMs": 31788,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " the",
+    "startMs": 31850,
+    "endMs": 32019,
+    "timestampMs": 31935,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " cards",
+    "startMs": 32019,
+    "endMs": 32366,
+    "timestampMs": 32193,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " nobody",
+    "startMs": 32366,
+    "endMs": 32749,
+    "timestampMs": 32558,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " finishes?",
+    "startMs": 32749,
+    "endMs": 33239,
+    "timestampMs": 32994,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "That's",
+    "startMs": 33682,
+    "endMs": 34009,
+    "timestampMs": 33846,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " called",
+    "startMs": 34009,
+    "endMs": 34335,
+    "timestampMs": 34172,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " breakage.",
+    "startMs": 34335,
+    "endMs": 34662,
+    "timestampMs": 34499,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " A",
+    "startMs": 34662,
+    "endMs": 34989,
+    "timestampMs": 34826,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " lot",
+    "startMs": 34989,
+    "endMs": 35315,
+    "timestampMs": 35152,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " of",
+    "startMs": 35315,
+    "endMs": 35642,
+    "timestampMs": 35479,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " it",
+    "startMs": 35642,
+    "endMs": 35969,
+    "timestampMs": 35806,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " eventually",
+    "startMs": 35969,
+    "endMs": 36295,
+    "timestampMs": 36132,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " becomes",
+    "startMs": 36295,
+    "endMs": 36622,
+    "timestampMs": 36459,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " revenue.",
+    "startMs": 36622,
+    "endMs": 36949,
+    "timestampMs": 36786,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "I",
+    "startMs": 37625,
+    "endMs": 37822,
+    "timestampMs": 37724,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " have",
+    "startMs": 37822,
+    "endMs": 38019,
+    "timestampMs": 37921,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " a",
+    "startMs": 38019,
+    "endMs": 38161,
+    "timestampMs": 38090,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " gift",
+    "startMs": 38161,
+    "endMs": 38510,
+    "timestampMs": 38336,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " card",
+    "startMs": 38510,
+    "endMs": 38827,
+    "timestampMs": 38669,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " from",
+    "startMs": 38827,
+    "endMs": 39133,
+    "timestampMs": 38980,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " 2019",
+    "startMs": 39133,
+    "endMs": 40104,
+    "timestampMs": 39619,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " in",
+    "startMs": 40104,
+    "endMs": 40378,
+    "timestampMs": 40241,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " my",
+    "startMs": 40378,
+    "endMs": 40585,
+    "timestampMs": 40482,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " wallet",
+    "startMs": 40585,
+    "endMs": 41022,
+    "timestampMs": 40804,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " right",
+    "startMs": 41022,
+    "endMs": 41262,
+    "timestampMs": 41142,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " now.",
+    "startMs": 41262,
+    "endMs": 41590,
+    "timestampMs": 41426,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "They",
+    "startMs": 41852,
+    "endMs": 42029,
+    "timestampMs": 41941,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " thank",
+    "startMs": 42029,
+    "endMs": 42478,
+    "timestampMs": 42254,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you",
+    "startMs": 42478,
+    "endMs": 42714,
+    "timestampMs": 42596,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " for",
+    "startMs": 42714,
+    "endMs": 42974,
+    "timestampMs": 42844,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " your",
+    "startMs": 42974,
+    "endMs": 43175,
+    "timestampMs": 43075,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " service.",
+    "startMs": 43175,
+    "endMs": 43730,
+    "timestampMs": 43453,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  }
+]

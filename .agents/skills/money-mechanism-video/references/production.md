@@ -45,7 +45,7 @@ Copy Style and Script from the calendar row (Calendar: the two "Gemini TTS" colu
 | `npm run voice -- --list-models` | TTS models the key can use |
 | `npm run voice -- <slug> --dry-run` | Shows the request without calling the API |
 
-Needs `GEMINI_API_KEY` in `.env` (gitignored). Model: `GEMINI_TTS_MODEL` in `.env`, else the newest stable TTS model the key offers (a Preview one only if no stable model exists; it warns). Output: 44.1 kHz mono MP3, loudness-normalized to about −14 LUFS with peaks under −1.5 dBTP, using Remotion's bundled ffmpeg. Raw takes and the exact request are kept in `out/voice-takes/<slug>/`.
+Dialogue on newer TTS models (gemini-3.8+) is sent as one part per line tagged with `speechMetadata.speaker`, with the Style in `speechMetadata.style` (2.5 / 3.1 models still get one tagged transcript); the generator picks the format from the model name. Needs `GEMINI_API_KEY` in `.env` (gitignored). Model: `GEMINI_TTS_MODEL` in `.env`, else the newest stable TTS model the key offers (a Preview one only if no stable model exists; it warns). Output: 44.1 kHz mono MP3, loudness-normalized to about −14 LUFS with peaks under −1.5 dBTP, using Remotion's bundled ffmpeg. Raw takes and the exact request are kept in `out/voice-takes/<slug>/`.
 
 Listen to every take before building. If a line is off, regenerate with `--force` (or `--takes=3` and pick); adjust the Style bullets if the same line keeps going wrong. Play it with `<Audio src={staticFile("videos/<slug>/voiceover.mp3")} />` from `@remotion/media`.
 

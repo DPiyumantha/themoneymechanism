@@ -31,7 +31,7 @@ On a phone, Facebook covers the top (~8%: header), the right edge from about 55%
 
 - Copy `src/videos/_story-template/` to `src/videos/<slug>/` (slugs start `story-`), register `MM-Story<Name>` in `src/videos/index.ts`.
 - `voice.md` uses `speakers: Maya=Sulafat, Jake=Puck` (or `Maya=Sulafat, Ray=Algenib`); every script line starts with the speaker name. Generate with `npm run voice -- <slug>` (production.md).
-- **Captions:** transcribe `voiceover.mp3` to `captions.json` and add a `speaker` field to every word, taken from the dialogue order in `voice.md` (line by line). `DialogueCaptions`, `useSpeakerTimeline` and the characters' mouths all depend on it.
+- **Captions:** transcribe `voiceover.mp3` to `captions.json` and add a `speaker` field to every word, taken from the dialogue order in `voice.md` (line by line). `DialogueCaptions`, `useSpeakerTimeline` and the characters' mouths all depend on it. `npm run align -- <slug>` does this from `voice.md` (Gemini rough timings snapped to the pauses); check the printed table, fix a line in `out/voice-takes/<slug>/align.json` and re-run with `--cached`.
 - One `Scene` component renders the `StoryScene` + `Character`s, driven by `useSpeakerTimeline(captions)`: `talking={tl.isTalking("jake")}`, `bounceAt={tl.lineStartOf("jake")}`. Render it once normally and pass `<Scene />` again as `scene` to `MechanismMoment`.
 - Several locations: one `Sequence` per location, each with its own `StoryScene bg`, and a short `whoosh` SFX on the cut.
 - Backgrounds: `public/videos/<slug>/bg-N.png` from the row's prompts (no people, no text, no logos). Without one, `StoryScene` falls back to the brand background.

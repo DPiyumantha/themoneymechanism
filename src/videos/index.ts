@@ -6,6 +6,9 @@ import { CONTENT_FRAMES as STORY_TEMPLATE_FRAMES, StoryTemplate } from "./_story
 import { CONTENT_FRAMES as WHY_999_FRAMES, Why999 } from "./why-999/Video";
 import { CONTENT_FRAMES as GAS_FRAMES, GasDollarBreakdown } from "./gas-dollar-breakdown/Video";
 import { CONTENT_FRAMES as COSTCO_MEMBERSHIPS_FRAMES, CostcoMemberships } from "./costco-memberships/Video";
+import { CONTENT_FRAMES as STORY_MILK_RUN_FRAMES, StoryMilkRun } from "./story-milk-run/Video";
+import { CONTENT_FRAMES as STORY_COFFEE_BANK_FRAMES, StoryCoffeeBank } from "./story-coffee-bank/Video";
+import { CONTENT_FRAMES as HOLIDAY_TRILLION_FRAMES, HolidayTrillion } from "./holiday-trillion/Video";
 
 export type VideoEntry = {
   /** Composition id shown in Studio: "MM-<Slug>" in PascalCase words, e.g. "MM-CostcoHotDog". */
@@ -28,5 +31,8 @@ export const videos: VideoEntry[] = [
   { id: "MM-Why999", component: Why999, contentFrames: WHY_999_FRAMES },
   { id: "MM-GasDollarBreakdown", component: GasDollarBreakdown, contentFrames: GAS_FRAMES },
   { id: "MM-CostcoMemberships", component: CostcoMemberships, contentFrames: COSTCO_MEMBERSHIPS_FRAMES },
+  { id: "MM-StoryMilkRun", component: StoryMilkRun, contentFrames: STORY_MILK_RUN_FRAMES, format: "reels" },
+  { id: "MM-StoryCoffeeBank", component: StoryCoffeeBank, contentFrames: STORY_COFFEE_BANK_FRAMES, format: "reels" },
+  { id: "MM-HolidayTrillion", component: HolidayTrillion, contentFrames: HOLIDAY_TRILLION_FRAMES },
   // { id: "MM-YourNewVideo", component: YourNewVideo, contentFrames: CONTENT_FRAMES },
 ];

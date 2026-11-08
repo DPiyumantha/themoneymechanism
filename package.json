@@ -32,7 +32,8 @@
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc",
     "render": "remotion render",
-    "voice": "node scripts/voice/generate.mjs"
+    "voice": "node scripts/voice/generate.mjs",
+    "align": "node scripts/voice/align.mjs"
   },
   "allowScripts": {
     "esbuild": false

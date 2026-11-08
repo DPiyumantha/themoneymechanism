@@ -52,10 +52,16 @@ Register: `{ id: "MM-MyVideo", component: MyVideo, contentFrames: CONTENT_FRAMES
 | `StatCard` | `value`, `prefix?`, `suffix?`, `decimals?`, `label`, `trend?`, `delay?` | Count-up number. |
 | `VersusCard` | `left`, `right` (`{label, value, note?}`), `emphasis?`, `delay?` | Two figures; gold = the reveal. |
 | `BarChart` | `data` (`{label, value, display?}[]`), `highlight?`, `title?`, `delay?`, `height?` | 3–7 bars. |
-| `ListReveal` | `items[]`, `every?`, `delay?` | Numbered points, timed to VO. |
+| `ListReveal` | `items[]`, `every?`, `delay?`, `at?: number[]` | Numbered points, timed to VO. `at` sets each item's frame when the voice-over spacing is uneven. |
 | `PhotoFrame` | `src`, `caption?`, `aspect?`, `delay?` | `src = staticFile("videos/<slug>/x.jpg")`. |
 | `SourceNote` | `text`, `delay?` | Under every figure. |
 | `Captions` | `captions: Caption[]`, `combineWithinMs?` | Inside an `AbsoluteFill`, after the scenes. |
+| `PriceTag` | `to`, `from?`, `flipAt?`, `focusLeftAt?`, `delay?`, `size?` | Hanging tag; digits roll like an odometer from `from` to `to` ("10.00" → "9.99") and click into place. `focusLeftAt` lights the left digit and dims the rest. |
+| `Mascot` | `pose?: "neutral" \| "shrug" \| "nervous" \| "faint" \| "thumbs-up" \| "salute" \| "head-shake" \| "sweat"`, `poseAt?`, `says?`, `saysHighlight?`, `saysAt?`, `delay?`, `size?` | Gus the Gear (Shared assets sheet), vector. Meme reactions with an optional speech bubble. Add poses here as needed. |
+| `PumpCounter` | `total`, `pricePerGallon`, `delay?`, `startAt?`, `countFrames?` | Gas pump display: dollars and gallons spin up odometer-style and lock at `total`. |
+| `CoinBuckets` | `buckets` (`{label, amount, share}[]`), `at[]`, `highlight?`, `delay?` | Where the money goes: coins drop into labeled buckets one at a time, timed to the VO. `coinBucketLandFrames(share)` for SFX timing. |
+| `MemberCard` | `delay?`, `slideAt?`, `gearAt?`, `cardText?` | A membership card slides out of a wallet, then becomes a turning gear driving a warehouse. No brand marks. |
+| `ExpectationReality` | `expectation`, `reality?`, `delay?`, `realityAt?` | Original Expectation vs Reality meme: one milk carton vs an overflowing cart. |
 
 `delay` is in frames relative to the scene start. Typical: kicker 4, hook 10, card 6.
 
@@ -70,3 +76,7 @@ Before a voice-over exists, `demoCaptions(text, startMs, endMs)` from `src/video
 ## Writing new components
 
 Only when no existing one fits. Put it in `src/components/`, use `theme` tokens, `useScale()`, springs from `theme.motion`, export it from `src/components/index.ts`, and add it to this table.
+
+## Story episodes
+
+Story components (`Character`, `StoryScene`, `DialogueCaptions`, `MechanismMoment`, `EpisodeTitle`, `useSpeakerTimeline`) live in `src/components/story` and are documented in [story-series.md](story-series.md). Start from `src/videos/_story-template/`.

@@ -150,8 +150,67 @@ function readSpec(slug) {
   return spec;
 }
 
-function buildRequest(spec) {
+/**
+ * Older TTS models (2.5, 3.1) take the dialogue as one text with "Name:" prefixes.
+ * Newer ones (3.8+) need one part per line tagged with speechMetadata.speaker, and the
+ * style goes in speechMetadata.style (a style sent as text would be read aloud).
+ */
+const usesTaggedParts = (model) => !!model && !/gemini-(2\.5|3\.1)-/.test(model);
+
+function buildRequest(spec, model) {
   const text = spec.style ? `${spec.style}\n\n#### TRANSCRIPT\n${spec.script}` : spec.script;
+  if (spec.speakers && usesTaggedParts(model)) {
+    const lines = spec.script.split("\n");
+    const parts = [];
+    lines.forEach((l, i) => {
+      if (!l.trim()) return;
+      const idx = l.indexOf(":");
+      // A blank line after this one = longer pause; say so in that line's style.
+      const pauseAfter = i + 1 < lines.length && !lines[i + 1].trim();
+      parts.push({
+        text: l.slice(idx + 1).trim(),
+        speechMetadata: {
+          speaker: l.slice(0, idx).trim(),
+          ...(spec.style ? { style: pauseAfter ? `${spec.style}\n\nLeave a longer pause after this line.` : spec.style } : {}),
+        },
+      });
+    });
+    return {
+      contents: [{ role: "user", parts }],
+      generationConfig: {
+        responseModalities: ["AUDIO"],
+        speechConfig: {
+          multiSpeakerVoiceConfig: {
+            speakerVoiceConfigs: spec.speakers.map((s) => ({
+              speaker: s.name,
+              voiceConfig: { prebuiltVoiceConfig: { voiceName: s.voice } },
+            })),
+          },
+          languageCode: "en-US",
+        },
+      },
+    };
+  }
+  if (!spec.speakers && usesTaggedParts(model) && spec.style) {
+    // Single voice on a 3.8+ model: style goes in speechMetadata.style per line (as text it is read aloud).
+    const lines = spec.script.split("\n");
+    const parts = [];
+    lines.forEach((l, i) => {
+      if (!l.trim()) return;
+      const pauseAfter = i + 1 < lines.length && !lines[i + 1].trim();
+      parts.push({
+        text: l.trim(),
+        speechMetadata: { style: pauseAfter ? `${spec.style}\n\nLeave a longer pause after this line.` : spec.style },
+      });
+    });
+    return {
+      contents: [{ role: "user", parts }],
+      generationConfig: {
+        responseModalities: ["AUDIO"],
+        speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: spec.voice } }, languageCode: "en-US" },
+      },
+    };
+  }
   const speechConfig = spec.speakers
     ? {
         multiSpeakerVoiceConfig: {
@@ -208,7 +267,7 @@ const stamp = () => new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
 
 async function generate(slug, model) {
   const spec = readSpec(slug);
-  const body = buildRequest(spec);
+  const body = buildRequest(spec, model);
   if (flag("dry-run")) {
     console.log(`\n— ${slug} → ${model ?? "(model chosen at run time)"}\n${JSON.stringify(body, null, 2)}`);
     return;

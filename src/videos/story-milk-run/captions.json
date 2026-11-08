@@ -1,0 +1,914 @@
+[
+  {
+    "text": "I'm",
+    "startMs": 30,
+    "endMs": 294,
+    "timestampMs": 162,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " back!",
+    "startMs": 294,
+    "endMs": 1032,
+    "timestampMs": 663,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "That's…",
+    "startMs": 1850,
+    "endMs": 2613,
+    "timestampMs": 2232,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " a",
+    "startMs": 2921,
+    "endMs": 3020,
+    "timestampMs": 2971,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " lot",
+    "startMs": 3020,
+    "endMs": 3090,
+    "timestampMs": 3055,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " of",
+    "startMs": 3089,
+    "endMs": 3322,
+    "timestampMs": 3206,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " bags.",
+    "startMs": 3322,
+    "endMs": 4083,
+    "timestampMs": 3703,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " Did",
+    "startMs": 4805,
+    "endMs": 4905,
+    "timestampMs": 4855,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you",
+    "startMs": 4905,
+    "endMs": 5005,
+    "timestampMs": 4955,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " get",
+    "startMs": 5005,
+    "endMs": 5105,
+    "timestampMs": 5055,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 5105,
+    "endMs": 5233,
+    "timestampMs": 5169,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " milk?",
+    "startMs": 5233,
+    "endMs": 5815,
+    "timestampMs": 5524,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "Okay.",
+    "startMs": 6425,
+    "endMs": 6892,
+    "timestampMs": 6659,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " Funny",
+    "startMs": 6892,
+    "endMs": 7170,
+    "timestampMs": 7031,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " story.",
+    "startMs": 7170,
+    "endMs": 7549,
+    "timestampMs": 7360,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "You",
+    "startMs": 8168,
+    "endMs": 8334,
+    "timestampMs": 8251,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " forgot",
+    "startMs": 8334,
+    "endMs": 8684,
+    "timestampMs": 8509,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 8684,
+    "endMs": 8783,
+    "timestampMs": 8734,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " milk.",
+    "startMs": 8783,
+    "endMs": 9166,
+    "timestampMs": 8975,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "I",
+    "startMs": 9410,
+    "endMs": 9620,
+    "timestampMs": 9515,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " didn't",
+    "startMs": 9620,
+    "endMs": 9850,
+    "timestampMs": 9735,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " forget",
+    "startMs": 10074,
+    "endMs": 10450,
+    "timestampMs": 10262,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " it.",
+    "startMs": 10450,
+    "endMs": 10799,
+    "timestampMs": 10625,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " I",
+    "startMs": 10799,
+    "endMs": 11049,
+    "timestampMs": 10924,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " just…",
+    "startMs": 11049,
+    "endMs": 11571,
+    "timestampMs": 11310,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " never",
+    "startMs": 12279,
+    "endMs": 12519,
+    "timestampMs": 12399,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " made",
+    "startMs": 12519,
+    "endMs": 12699,
+    "timestampMs": 12609,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " it",
+    "startMs": 12699,
+    "endMs": 12849,
+    "timestampMs": 12774,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " to",
+    "startMs": 12849,
+    "endMs": 12969,
+    "timestampMs": 12909,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " the",
+    "startMs": 12969,
+    "endMs": 13149,
+    "timestampMs": 13059,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " back",
+    "startMs": 13149,
+    "endMs": 13399,
+    "timestampMs": 13274,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " of",
+    "startMs": 13399,
+    "endMs": 13519,
+    "timestampMs": 13459,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " the",
+    "startMs": 13519,
+    "endMs": 13649,
+    "timestampMs": 13584,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " store.",
+    "startMs": 13649,
+    "endMs": 13979,
+    "timestampMs": 13814,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "Of",
+    "startMs": 14458,
+    "endMs": 14589,
+    "timestampMs": 14524,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " course",
+    "startMs": 14589,
+    "endMs": 14813,
+    "timestampMs": 14701,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you",
+    "startMs": 14813,
+    "endMs": 14962,
+    "timestampMs": 14888,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " didn't.",
+    "startMs": 14962,
+    "endMs": 15463,
+    "timestampMs": 15213,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " That's",
+    "startMs": 15908,
+    "endMs": 16137,
+    "timestampMs": 16023,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 16137,
+    "endMs": 16249,
+    "timestampMs": 16193,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " point.",
+    "startMs": 16249,
+    "endMs": 16715,
+    "timestampMs": 16482,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "Milk,",
+    "startMs": 17091,
+    "endMs": 17677,
+    "timestampMs": 17384,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " eggs,",
+    "startMs": 17677,
+    "endMs": 18561,
+    "timestampMs": 18119,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " bread.",
+    "startMs": 18764,
+    "endMs": 19175,
+    "timestampMs": 18970,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " They're",
+    "startMs": 19465,
+    "endMs": 19565,
+    "timestampMs": 19515,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " why",
+    "startMs": 19565,
+    "endMs": 19685,
+    "timestampMs": 19625,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " most",
+    "startMs": 19685,
+    "endMs": 19936,
+    "timestampMs": 19811,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " people",
+    "startMs": 19936,
+    "endMs": 20249,
+    "timestampMs": 20093,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " walk",
+    "startMs": 20249,
+    "endMs": 20521,
+    "timestampMs": 20385,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " in.",
+    "startMs": 20521,
+    "endMs": 20844,
+    "timestampMs": 20683,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " So",
+    "startMs": 21036,
+    "endMs": 21421,
+    "timestampMs": 21229,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " stores",
+    "startMs": 21421,
+    "endMs": 21818,
+    "timestampMs": 21620,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " put",
+    "startMs": 21818,
+    "endMs": 22027,
+    "timestampMs": 21923,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " them",
+    "startMs": 22027,
+    "endMs": 22278,
+    "timestampMs": 22153,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " all",
+    "startMs": 22278,
+    "endMs": 22550,
+    "timestampMs": 22414,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 22550,
+    "endMs": 22655,
+    "timestampMs": 22603,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " way",
+    "startMs": 22655,
+    "endMs": 22843,
+    "timestampMs": 22749,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " at",
+    "startMs": 22843,
+    "endMs": 22968,
+    "timestampMs": 22906,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 22968,
+    "endMs": 23115,
+    "timestampMs": 23042,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " back.",
+    "startMs": 23115,
+    "endMs": 23974,
+    "timestampMs": 23545,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " Every",
+    "startMs": 24282,
+    "endMs": 24621,
+    "timestampMs": 24452,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " aisle",
+    "startMs": 24621,
+    "endMs": 24872,
+    "timestampMs": 24747,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " on",
+    "startMs": 24872,
+    "endMs": 24997,
+    "timestampMs": 24935,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 24997,
+    "endMs": 25123,
+    "timestampMs": 25060,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " way",
+    "startMs": 25123,
+    "endMs": 25499,
+    "timestampMs": 25311,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " is",
+    "startMs": 25499,
+    "endMs": 25666,
+    "timestampMs": 25583,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " a",
+    "startMs": 25666,
+    "endMs": 25792,
+    "timestampMs": 25729,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " chance",
+    "startMs": 25792,
+    "endMs": 26106,
+    "timestampMs": 25949,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " to",
+    "startMs": 26106,
+    "endMs": 26231,
+    "timestampMs": 26169,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " grab",
+    "startMs": 26231,
+    "endMs": 26482,
+    "timestampMs": 26357,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " something",
+    "startMs": 26482,
+    "endMs": 26817,
+    "timestampMs": 26650,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " you",
+    "startMs": 26817,
+    "endMs": 26963,
+    "timestampMs": 26890,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " didn't",
+    "startMs": 26963,
+    "endMs": 27298,
+    "timestampMs": 27131,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " plan",
+    "startMs": 27298,
+    "endMs": 27549,
+    "timestampMs": 27424,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " to",
+    "startMs": 27549,
+    "endMs": 27695,
+    "timestampMs": 27622,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " buy.",
+    "startMs": 27695,
+    "endMs": 28260,
+    "timestampMs": 27978,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "The",
+    "startMs": 29121,
+    "endMs": 29278,
+    "timestampMs": 29200,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " chips",
+    "startMs": 29278,
+    "endMs": 29572,
+    "timestampMs": 29425,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " were",
+    "startMs": 29572,
+    "endMs": 29709,
+    "timestampMs": 29641,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " on",
+    "startMs": 29709,
+    "endMs": 29866,
+    "timestampMs": 29788,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " sale,",
+    "startMs": 29866,
+    "endMs": 30277,
+    "timestampMs": 30072,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " though.",
+    "startMs": 30506,
+    "endMs": 30748,
+    "timestampMs": 30627,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "They're",
+    "startMs": 30931,
+    "endMs": 31144,
+    "timestampMs": 31038,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " always",
+    "startMs": 31144,
+    "endMs": 31593,
+    "timestampMs": 31369,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " on",
+    "startMs": 31593,
+    "endMs": 31785,
+    "timestampMs": 31689,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " sale.",
+    "startMs": 31790,
+    "endMs": 32699,
+    "timestampMs": 32245,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " They're",
+    "startMs": 33342,
+    "endMs": 33500,
+    "timestampMs": 33421,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " at",
+    "startMs": 33500,
+    "endMs": 33620,
+    "timestampMs": 33560,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " eye",
+    "startMs": 33620,
+    "endMs": 33780,
+    "timestampMs": 33700,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " level.",
+    "startMs": 33780,
+    "endMs": 34198,
+    "timestampMs": 33989,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "So",
+    "startMs": 34831,
+    "endMs": 35074,
+    "timestampMs": 34953,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " what",
+    "startMs": 35074,
+    "endMs": 35216,
+    "timestampMs": 35145,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " do",
+    "startMs": 35216,
+    "endMs": 35338,
+    "timestampMs": 35277,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " I",
+    "startMs": 35338,
+    "endMs": 35420,
+    "timestampMs": 35379,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " do?",
+    "startMs": 35420,
+    "endMs": 35826,
+    "timestampMs": 35623,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " Walk",
+    "startMs": 35826,
+    "endMs": 36130,
+    "timestampMs": 35978,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " faster?",
+    "startMs": 36130,
+    "endMs": 36699,
+    "timestampMs": 36415,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "Make",
+    "startMs": 36891,
+    "endMs": 37197,
+    "timestampMs": 37044,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " a",
+    "startMs": 37197,
+    "endMs": 37339,
+    "timestampMs": 37268,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " list.",
+    "startMs": 37339,
+    "endMs": 38132,
+    "timestampMs": 37736,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " Go",
+    "startMs": 38612,
+    "endMs": 38892,
+    "timestampMs": 38752,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " straight",
+    "startMs": 38892,
+    "endMs": 39269,
+    "timestampMs": 39081,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " to",
+    "startMs": 39269,
+    "endMs": 39410,
+    "timestampMs": 39340,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 39410,
+    "endMs": 39551,
+    "timestampMs": 39481,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " back.",
+    "startMs": 39551,
+    "endMs": 40116,
+    "timestampMs": 39834,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": "…I'm",
+    "startMs": 40677,
+    "endMs": 41601,
+    "timestampMs": 41139,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " going",
+    "startMs": 41601,
+    "endMs": 41878,
+    "timestampMs": 41740,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " back",
+    "startMs": 41878,
+    "endMs": 42086,
+    "timestampMs": 41982,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " for",
+    "startMs": 42086,
+    "endMs": 42225,
+    "timestampMs": 42156,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " the",
+    "startMs": 42225,
+    "endMs": 42387,
+    "timestampMs": 42306,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": " milk.",
+    "startMs": 42387,
+    "endMs": 42895,
+    "timestampMs": 42641,
+    "confidence": 0.9,
+    "speaker": "Jake"
+  },
+  {
+    "text": "Take",
+    "startMs": 43348,
+    "endMs": 43586,
+    "timestampMs": 43467,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " the",
+    "startMs": 43586,
+    "endMs": 43721,
+    "timestampMs": 43654,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  },
+  {
+    "text": " list.",
+    "startMs": 43721,
+    "endMs": 44161,
+    "timestampMs": 43941,
+    "confidence": 0.9,
+    "speaker": "Maya"
+  }
+]

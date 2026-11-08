@@ -1,0 +1,632 @@
+[
+  {
+    "text": "Americans",
+    "startMs": 259,
+    "endMs": 912,
+    "timestampMs": 586,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 912,
+    "endMs": 1076,
+    "timestampMs": 994,
+    "confidence": 0.9
+  },
+  {
+    "text": " about",
+    "startMs": 1076,
+    "endMs": 1362,
+    "timestampMs": 1219,
+    "confidence": 0.9
+  },
+  {
+    "text": " to",
+    "startMs": 1362,
+    "endMs": 1525,
+    "timestampMs": 1444,
+    "confidence": 0.9
+  },
+  {
+    "text": " spend",
+    "startMs": 1525,
+    "endMs": 1852,
+    "timestampMs": 1689,
+    "confidence": 0.9
+  },
+  {
+    "text": " one",
+    "startMs": 1852,
+    "endMs": 2117,
+    "timestampMs": 1985,
+    "confidence": 0.9
+  },
+  {
+    "text": " trillion",
+    "startMs": 2117,
+    "endMs": 2587,
+    "timestampMs": 2352,
+    "confidence": 0.9
+  },
+  {
+    "text": " dollars",
+    "startMs": 2587,
+    "endMs": 3118,
+    "timestampMs": 2853,
+    "confidence": 0.9
+  },
+  {
+    "text": " in",
+    "startMs": 3118,
+    "endMs": 3281,
+    "timestampMs": 3200,
+    "confidence": 0.9
+  },
+  {
+    "text": " two",
+    "startMs": 3281,
+    "endMs": 3567,
+    "timestampMs": 3424,
+    "confidence": 0.9
+  },
+  {
+    "text": " months.",
+    "startMs": 3567,
+    "endMs": 4098,
+    "timestampMs": 3833,
+    "confidence": 0.9
+  },
+  {
+    "text": "The",
+    "startMs": 4702,
+    "endMs": 4889,
+    "timestampMs": 4796,
+    "confidence": 0.9
+  },
+  {
+    "text": " National",
+    "startMs": 4889,
+    "endMs": 5337,
+    "timestampMs": 5113,
+    "confidence": 0.9
+  },
+  {
+    "text": " Retail",
+    "startMs": 5337,
+    "endMs": 5673,
+    "timestampMs": 5505,
+    "confidence": 0.9
+  },
+  {
+    "text": " Federation",
+    "startMs": 5673,
+    "endMs": 6270,
+    "timestampMs": 5972,
+    "confidence": 0.9
+  },
+  {
+    "text": " expects",
+    "startMs": 6270,
+    "endMs": 6718,
+    "timestampMs": 6494,
+    "confidence": 0.9
+  },
+  {
+    "text": " holiday",
+    "startMs": 6718,
+    "endMs": 7129,
+    "timestampMs": 6924,
+    "confidence": 0.9
+  },
+  {
+    "text": " sales",
+    "startMs": 7129,
+    "endMs": 7539,
+    "timestampMs": 7334,
+    "confidence": 0.9
+  },
+  {
+    "text": " in",
+    "startMs": 7539,
+    "endMs": 7651,
+    "timestampMs": 7595,
+    "confidence": 0.9
+  },
+  {
+    "text": " November",
+    "startMs": 7651,
+    "endMs": 8099,
+    "timestampMs": 7875,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 8099,
+    "endMs": 8286,
+    "timestampMs": 8193,
+    "confidence": 0.9
+  },
+  {
+    "text": " December",
+    "startMs": 8286,
+    "endMs": 8846,
+    "timestampMs": 8566,
+    "confidence": 0.9
+  },
+  {
+    "text": " to",
+    "startMs": 8846,
+    "endMs": 8995,
+    "timestampMs": 8921,
+    "confidence": 0.9
+  },
+  {
+    "text": " hit",
+    "startMs": 8995,
+    "endMs": 9219,
+    "timestampMs": 9107,
+    "confidence": 0.9
+  },
+  {
+    "text": " one",
+    "startMs": 9219,
+    "endMs": 9481,
+    "timestampMs": 9350,
+    "confidence": 0.9
+  },
+  {
+    "text": " point",
+    "startMs": 9481,
+    "endMs": 9705,
+    "timestampMs": 9593,
+    "confidence": 0.9
+  },
+  {
+    "text": " zero",
+    "startMs": 9705,
+    "endMs": 10041,
+    "timestampMs": 9873,
+    "confidence": 0.9
+  },
+  {
+    "text": " one",
+    "startMs": 10041,
+    "endMs": 10451,
+    "timestampMs": 10246,
+    "confidence": 0.9
+  },
+  {
+    "text": " trillion",
+    "startMs": 10451,
+    "endMs": 10899,
+    "timestampMs": 10675,
+    "confidence": 0.9
+  },
+  {
+    "text": " dollars.",
+    "startMs": 10899,
+    "endMs": 12281,
+    "timestampMs": 11590,
+    "confidence": 0.9
+  },
+  {
+    "text": "That's",
+    "startMs": 12937,
+    "endMs": 13259,
+    "timestampMs": 13098,
+    "confidence": 0.9
+  },
+  {
+    "text": " up",
+    "startMs": 13259,
+    "endMs": 13540,
+    "timestampMs": 13400,
+    "confidence": 0.9
+  },
+  {
+    "text": " four",
+    "startMs": 13540,
+    "endMs": 13822,
+    "timestampMs": 13681,
+    "confidence": 0.9
+  },
+  {
+    "text": " point",
+    "startMs": 13822,
+    "endMs": 14063,
+    "timestampMs": 13943,
+    "confidence": 0.9
+  },
+  {
+    "text": " two",
+    "startMs": 14063,
+    "endMs": 14305,
+    "timestampMs": 14184,
+    "confidence": 0.9
+  },
+  {
+    "text": " percent",
+    "startMs": 14305,
+    "endMs": 14787,
+    "timestampMs": 14546,
+    "confidence": 0.9
+  },
+  {
+    "text": " from",
+    "startMs": 14787,
+    "endMs": 15029,
+    "timestampMs": 14908,
+    "confidence": 0.9
+  },
+  {
+    "text": " last",
+    "startMs": 15029,
+    "endMs": 15310,
+    "timestampMs": 15170,
+    "confidence": 0.9
+  },
+  {
+    "text": " year's",
+    "startMs": 15310,
+    "endMs": 15672,
+    "timestampMs": 15491,
+    "confidence": 0.9
+  },
+  {
+    "text": " nine",
+    "startMs": 15672,
+    "endMs": 15954,
+    "timestampMs": 15813,
+    "confidence": 0.9
+  },
+  {
+    "text": " hundred",
+    "startMs": 15954,
+    "endMs": 16236,
+    "timestampMs": 16095,
+    "confidence": 0.9
+  },
+  {
+    "text": " seventy-two",
+    "startMs": 16236,
+    "endMs": 16799,
+    "timestampMs": 16518,
+    "confidence": 0.9
+  },
+  {
+    "text": " billion.",
+    "startMs": 16799,
+    "endMs": 17684,
+    "timestampMs": 17242,
+    "confidence": 0.9
+  },
+  {
+    "text": "But",
+    "startMs": 18233,
+    "endMs": 18441,
+    "timestampMs": 18337,
+    "confidence": 0.9
+  },
+  {
+    "text": " here's",
+    "startMs": 18441,
+    "endMs": 18733,
+    "timestampMs": 18587,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 18733,
+    "endMs": 18942,
+    "timestampMs": 18838,
+    "confidence": 0.9
+  },
+  {
+    "text": " catch:",
+    "startMs": 18942,
+    "endMs": 19313,
+    "timestampMs": 19128,
+    "confidence": 0.9
+  },
+  {
+    "text": " part",
+    "startMs": 19645,
+    "endMs": 19745,
+    "timestampMs": 19695,
+    "confidence": 0.9
+  },
+  {
+    "text": " of",
+    "startMs": 19745,
+    "endMs": 19859,
+    "timestampMs": 19802,
+    "confidence": 0.9
+  },
+  {
+    "text": " that",
+    "startMs": 19859,
+    "endMs": 20067,
+    "timestampMs": 19963,
+    "confidence": 0.9
+  },
+  {
+    "text": " growth",
+    "startMs": 20067,
+    "endMs": 20567,
+    "timestampMs": 20317,
+    "confidence": 0.9
+  },
+  {
+    "text": " is",
+    "startMs": 20567,
+    "endMs": 20734,
+    "timestampMs": 20651,
+    "confidence": 0.9
+  },
+  {
+    "text": " just",
+    "startMs": 20734,
+    "endMs": 21026,
+    "timestampMs": 20880,
+    "confidence": 0.9
+  },
+  {
+    "text": " higher",
+    "startMs": 21026,
+    "endMs": 21443,
+    "timestampMs": 21235,
+    "confidence": 0.9
+  },
+  {
+    "text": " prices.",
+    "startMs": 21443,
+    "endMs": 22193,
+    "timestampMs": 21818,
+    "confidence": 0.9
+  },
+  {
+    "text": "Gas,",
+    "startMs": 22744,
+    "endMs": 23283,
+    "timestampMs": 23014,
+    "confidence": 0.9
+  },
+  {
+    "text": " groceries,",
+    "startMs": 23283,
+    "endMs": 24116,
+    "timestampMs": 23700,
+    "confidence": 0.9
+  },
+  {
+    "text": " almost",
+    "startMs": 24916,
+    "endMs": 25016,
+    "timestampMs": 24966,
+    "confidence": 0.9
+  },
+  {
+    "text": " everything",
+    "startMs": 25016,
+    "endMs": 25116,
+    "timestampMs": 25066,
+    "confidence": 0.9
+  },
+  {
+    "text": " costs",
+    "startMs": 25116,
+    "endMs": 25283,
+    "timestampMs": 25200,
+    "confidence": 0.9
+  },
+  {
+    "text": " more,",
+    "startMs": 25283,
+    "endMs": 26351,
+    "timestampMs": 25817,
+    "confidence": 0.9
+  },
+  {
+    "text": " so",
+    "startMs": 26688,
+    "endMs": 26788,
+    "timestampMs": 26738,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 26788,
+    "endMs": 26888,
+    "timestampMs": 26838,
+    "confidence": 0.9
+  },
+  {
+    "text": " same",
+    "startMs": 26888,
+    "endMs": 26988,
+    "timestampMs": 26938,
+    "confidence": 0.9
+  },
+  {
+    "text": " shopping",
+    "startMs": 26988,
+    "endMs": 27091,
+    "timestampMs": 27040,
+    "confidence": 0.9
+  },
+  {
+    "text": " list",
+    "startMs": 27091,
+    "endMs": 27438,
+    "timestampMs": 27265,
+    "confidence": 0.9
+  },
+  {
+    "text": " makes",
+    "startMs": 27438,
+    "endMs": 27707,
+    "timestampMs": 27573,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 27707,
+    "endMs": 27822,
+    "timestampMs": 27765,
+    "confidence": 0.9
+  },
+  {
+    "text": " bigger",
+    "startMs": 27822,
+    "endMs": 28246,
+    "timestampMs": 28034,
+    "confidence": 0.9
+  },
+  {
+    "text": " number.",
+    "startMs": 28246,
+    "endMs": 29169,
+    "timestampMs": 28708,
+    "confidence": 0.9
+  },
+  {
+    "text": "And",
+    "startMs": 29897,
+    "endMs": 30156,
+    "timestampMs": 30027,
+    "confidence": 0.9
+  },
+  {
+    "text": " retailers",
+    "startMs": 30156,
+    "endMs": 30636,
+    "timestampMs": 30396,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 30636,
+    "endMs": 30747,
+    "timestampMs": 30692,
+    "confidence": 0.9
+  },
+  {
+    "text": " being",
+    "startMs": 30747,
+    "endMs": 31042,
+    "timestampMs": 30895,
+    "confidence": 0.9
+  },
+  {
+    "text": " careful,",
+    "startMs": 31042,
+    "endMs": 31544,
+    "timestampMs": 31293,
+    "confidence": 0.9
+  },
+  {
+    "text": " planning",
+    "startMs": 31816,
+    "endMs": 32003,
+    "timestampMs": 31910,
+    "confidence": 0.9
+  },
+  {
+    "text": " about",
+    "startMs": 32003,
+    "endMs": 32224,
+    "timestampMs": 32114,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 32224,
+    "endMs": 32372,
+    "timestampMs": 32298,
+    "confidence": 0.9
+  },
+  {
+    "text": " same",
+    "startMs": 32372,
+    "endMs": 32705,
+    "timestampMs": 32539,
+    "confidence": 0.9
+  },
+  {
+    "text": " number",
+    "startMs": 32705,
+    "endMs": 32963,
+    "timestampMs": 32834,
+    "confidence": 0.9
+  },
+  {
+    "text": " of",
+    "startMs": 32963,
+    "endMs": 33074,
+    "timestampMs": 33019,
+    "confidence": 0.9
+  },
+  {
+    "text": " seasonal",
+    "startMs": 33074,
+    "endMs": 33480,
+    "timestampMs": 33277,
+    "confidence": 0.9
+  },
+  {
+    "text": " hires",
+    "startMs": 33480,
+    "endMs": 33850,
+    "timestampMs": 33665,
+    "confidence": 0.9
+  },
+  {
+    "text": " as",
+    "startMs": 33850,
+    "endMs": 33998,
+    "timestampMs": 33924,
+    "confidence": 0.9
+  },
+  {
+    "text": " last",
+    "startMs": 33998,
+    "endMs": 34256,
+    "timestampMs": 34127,
+    "confidence": 0.9
+  },
+  {
+    "text": " year.",
+    "startMs": 34256,
+    "endMs": 34736,
+    "timestampMs": 34496,
+    "confidence": 0.9
+  },
+  {
+    "text": "Same",
+    "startMs": 35494,
+    "endMs": 35847,
+    "timestampMs": 35671,
+    "confidence": 0.9
+  },
+  {
+    "text": " shopping.",
+    "startMs": 35847,
+    "endMs": 36709,
+    "timestampMs": 36278,
+    "confidence": 0.9
+  },
+  {
+    "text": "Bigger",
+    "startMs": 37213,
+    "endMs": 37572,
+    "timestampMs": 37393,
+    "confidence": 0.9
+  },
+  {
+    "text": " number.",
+    "startMs": 37572,
+    "endMs": 38290,
+    "timestampMs": 37931,
+    "confidence": 0.9
+  }
+]
