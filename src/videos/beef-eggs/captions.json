@@ -1,0 +1,639 @@
+[
+  {
+    "text": "Burgers",
+    "startMs": 362,
+    "endMs": 806,
+    "timestampMs": 584,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 806,
+    "endMs": 1039,
+    "timestampMs": 923,
+    "confidence": 0.9
+  },
+  {
+    "text": " up.",
+    "startMs": 1039,
+    "endMs": 1568,
+    "timestampMs": 1304,
+    "confidence": 0.9
+  },
+  {
+    "text": "Eggs",
+    "startMs": 2253,
+    "endMs": 2506,
+    "timestampMs": 2380,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 2506,
+    "endMs": 2687,
+    "timestampMs": 2597,
+    "confidence": 0.9
+  },
+  {
+    "text": " down",
+    "startMs": 2687,
+    "endMs": 2939,
+    "timestampMs": 2813,
+    "confidence": 0.9
+  },
+  {
+    "text": " twenty-nine",
+    "startMs": 2939,
+    "endMs": 3481,
+    "timestampMs": 3210,
+    "confidence": 0.9
+  },
+  {
+    "text": " percent.",
+    "startMs": 3481,
+    "endMs": 4058,
+    "timestampMs": 3770,
+    "confidence": 0.9
+  },
+  {
+    "text": "The",
+    "startMs": 4926,
+    "endMs": 5071,
+    "timestampMs": 4999,
+    "confidence": 0.9
+  },
+  {
+    "text": " USDA's",
+    "startMs": 5071,
+    "endMs": 5940,
+    "timestampMs": 5506,
+    "confidence": 0.9
+  },
+  {
+    "text": " latest",
+    "startMs": 5940,
+    "endMs": 6291,
+    "timestampMs": 6116,
+    "confidence": 0.9
+  },
+  {
+    "text": " forecast",
+    "startMs": 6291,
+    "endMs": 6808,
+    "timestampMs": 6550,
+    "confidence": 0.9
+  },
+  {
+    "text": " says",
+    "startMs": 6808,
+    "endMs": 7242,
+    "timestampMs": 7025,
+    "confidence": 0.9
+  },
+  {
+    "text": " beef",
+    "startMs": 7242,
+    "endMs": 7573,
+    "timestampMs": 7408,
+    "confidence": 0.9
+  },
+  {
+    "text": " prices",
+    "startMs": 7573,
+    "endMs": 7904,
+    "timestampMs": 7739,
+    "confidence": 0.9
+  },
+  {
+    "text": " will",
+    "startMs": 7904,
+    "endMs": 8132,
+    "timestampMs": 8018,
+    "confidence": 0.9
+  },
+  {
+    "text": " rise",
+    "startMs": 8132,
+    "endMs": 8421,
+    "timestampMs": 8277,
+    "confidence": 0.9
+  },
+  {
+    "text": " about",
+    "startMs": 8421,
+    "endMs": 8938,
+    "timestampMs": 8680,
+    "confidence": 0.9
+  },
+  {
+    "text": " eight",
+    "startMs": 8938,
+    "endMs": 9207,
+    "timestampMs": 9073,
+    "confidence": 0.9
+  },
+  {
+    "text": " point",
+    "startMs": 9207,
+    "endMs": 9434,
+    "timestampMs": 9321,
+    "confidence": 0.9
+  },
+  {
+    "text": " seven",
+    "startMs": 9434,
+    "endMs": 9807,
+    "timestampMs": 9621,
+    "confidence": 0.9
+  },
+  {
+    "text": " percent",
+    "startMs": 9807,
+    "endMs": 10344,
+    "timestampMs": 10076,
+    "confidence": 0.9
+  },
+  {
+    "text": " this",
+    "startMs": 10344,
+    "endMs": 10592,
+    "timestampMs": 10468,
+    "confidence": 0.9
+  },
+  {
+    "text": " year,",
+    "startMs": 10592,
+    "endMs": 11214,
+    "timestampMs": 10903,
+    "confidence": 0.9
+  },
+  {
+    "text": " one",
+    "startMs": 11765,
+    "endMs": 11865,
+    "timestampMs": 11815,
+    "confidence": 0.9
+  },
+  {
+    "text": " of",
+    "startMs": 11865,
+    "endMs": 11965,
+    "timestampMs": 11915,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 11965,
+    "endMs": 12065,
+    "timestampMs": 12015,
+    "confidence": 0.9
+  },
+  {
+    "text": " biggest",
+    "startMs": 12065,
+    "endMs": 12226,
+    "timestampMs": 12146,
+    "confidence": 0.9
+  },
+  {
+    "text": " jumps",
+    "startMs": 12226,
+    "endMs": 12536,
+    "timestampMs": 12381,
+    "confidence": 0.9
+  },
+  {
+    "text": " of",
+    "startMs": 12536,
+    "endMs": 12639,
+    "timestampMs": 12588,
+    "confidence": 0.9
+  },
+  {
+    "text": " any",
+    "startMs": 12639,
+    "endMs": 12888,
+    "timestampMs": 12764,
+    "confidence": 0.9
+  },
+  {
+    "text": " grocery",
+    "startMs": 12888,
+    "endMs": 13322,
+    "timestampMs": 13105,
+    "confidence": 0.9
+  },
+  {
+    "text": " category",
+    "startMs": 13322,
+    "endMs": 14004,
+    "timestampMs": 13663,
+    "confidence": 0.9
+  },
+  {
+    "text": " it",
+    "startMs": 14004,
+    "endMs": 14149,
+    "timestampMs": 14077,
+    "confidence": 0.9
+  },
+  {
+    "text": " tracks.",
+    "startMs": 14149,
+    "endMs": 14749,
+    "timestampMs": 14449,
+    "confidence": 0.9
+  },
+  {
+    "text": "Eggs",
+    "startMs": 15786,
+    "endMs": 16198,
+    "timestampMs": 15992,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 16198,
+    "endMs": 16318,
+    "timestampMs": 16258,
+    "confidence": 0.9
+  },
+  {
+    "text": " going",
+    "startMs": 16318,
+    "endMs": 16456,
+    "timestampMs": 16387,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 16456,
+    "endMs": 16593,
+    "timestampMs": 16525,
+    "confidence": 0.9
+  },
+  {
+    "text": " other",
+    "startMs": 16593,
+    "endMs": 16816,
+    "timestampMs": 16705,
+    "confidence": 0.9
+  },
+  {
+    "text": " way,",
+    "startMs": 16816,
+    "endMs": 17098,
+    "timestampMs": 16957,
+    "confidence": 0.9
+  },
+  {
+    "text": " down",
+    "startMs": 17382,
+    "endMs": 17744,
+    "timestampMs": 17563,
+    "confidence": 0.9
+  },
+  {
+    "text": " about",
+    "startMs": 17744,
+    "endMs": 18328,
+    "timestampMs": 18036,
+    "confidence": 0.9
+  },
+  {
+    "text": " twenty-nine",
+    "startMs": 18328,
+    "endMs": 18809,
+    "timestampMs": 18569,
+    "confidence": 0.9
+  },
+  {
+    "text": " percent.",
+    "startMs": 18809,
+    "endMs": 19445,
+    "timestampMs": 19127,
+    "confidence": 0.9
+  },
+  {
+    "text": "Why?",
+    "startMs": 20318,
+    "endMs": 20844,
+    "timestampMs": 20581,
+    "confidence": 0.9
+  },
+  {
+    "text": "America's",
+    "startMs": 21393,
+    "endMs": 22101,
+    "timestampMs": 21747,
+    "confidence": 0.9
+  },
+  {
+    "text": " cattle",
+    "startMs": 22101,
+    "endMs": 22464,
+    "timestampMs": 22283,
+    "confidence": 0.9
+  },
+  {
+    "text": " herd",
+    "startMs": 22464,
+    "endMs": 22767,
+    "timestampMs": 22616,
+    "confidence": 0.9
+  },
+  {
+    "text": " is",
+    "startMs": 22767,
+    "endMs": 23050,
+    "timestampMs": 22909,
+    "confidence": 0.9
+  },
+  {
+    "text": " small,",
+    "startMs": 23050,
+    "endMs": 23677,
+    "timestampMs": 23364,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 24006,
+    "endMs": 24222,
+    "timestampMs": 24114,
+    "confidence": 0.9
+  },
+  {
+    "text": " it",
+    "startMs": 24222,
+    "endMs": 24384,
+    "timestampMs": 24303,
+    "confidence": 0.9
+  },
+  {
+    "text": " takes",
+    "startMs": 24384,
+    "endMs": 24748,
+    "timestampMs": 24566,
+    "confidence": 0.9
+  },
+  {
+    "text": " years",
+    "startMs": 24748,
+    "endMs": 25152,
+    "timestampMs": 24950,
+    "confidence": 0.9
+  },
+  {
+    "text": " to",
+    "startMs": 25152,
+    "endMs": 25395,
+    "timestampMs": 25274,
+    "confidence": 0.9
+  },
+  {
+    "text": " rebuild.",
+    "startMs": 25395,
+    "endMs": 26162,
+    "timestampMs": 25779,
+    "confidence": 0.9
+  },
+  {
+    "text": "You",
+    "startMs": 27254,
+    "endMs": 27380,
+    "timestampMs": 27317,
+    "confidence": 0.9
+  },
+  {
+    "text": " can't",
+    "startMs": 27380,
+    "endMs": 27678,
+    "timestampMs": 27529,
+    "confidence": 0.9
+  },
+  {
+    "text": " rush",
+    "startMs": 27678,
+    "endMs": 27883,
+    "timestampMs": 27781,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 27883,
+    "endMs": 27993,
+    "timestampMs": 27938,
+    "confidence": 0.9
+  },
+  {
+    "text": " cow.",
+    "startMs": 27993,
+    "endMs": 28527,
+    "timestampMs": 28260,
+    "confidence": 0.9
+  },
+  {
+    "text": "Egg-laying",
+    "startMs": 29510,
+    "endMs": 29981,
+    "timestampMs": 29746,
+    "confidence": 0.9
+  },
+  {
+    "text": " flocks,",
+    "startMs": 29981,
+    "endMs": 30224,
+    "timestampMs": 30103,
+    "confidence": 0.9
+  },
+  {
+    "text": " on",
+    "startMs": 30224,
+    "endMs": 30339,
+    "timestampMs": 30282,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 30339,
+    "endMs": 30424,
+    "timestampMs": 30382,
+    "confidence": 0.9
+  },
+  {
+    "text": " other",
+    "startMs": 30424,
+    "endMs": 30596,
+    "timestampMs": 30510,
+    "confidence": 0.9
+  },
+  {
+    "text": " hand,",
+    "startMs": 30596,
+    "endMs": 31110,
+    "timestampMs": 30853,
+    "confidence": 0.9
+  },
+  {
+    "text": " bounced",
+    "startMs": 31590,
+    "endMs": 31939,
+    "timestampMs": 31765,
+    "confidence": 0.9
+  },
+  {
+    "text": " back",
+    "startMs": 31939,
+    "endMs": 32347,
+    "timestampMs": 32143,
+    "confidence": 0.9
+  },
+  {
+    "text": " after",
+    "startMs": 32347,
+    "endMs": 32619,
+    "timestampMs": 32483,
+    "confidence": 0.9
+  },
+  {
+    "text": " bird",
+    "startMs": 32619,
+    "endMs": 32871,
+    "timestampMs": 32745,
+    "confidence": 0.9
+  },
+  {
+    "text": " flu",
+    "startMs": 32871,
+    "endMs": 33143,
+    "timestampMs": 33007,
+    "confidence": 0.9
+  },
+  {
+    "text": " losses.",
+    "startMs": 33143,
+    "endMs": 33900,
+    "timestampMs": 33522,
+    "confidence": 0.9
+  },
+  {
+    "text": "Overall,",
+    "startMs": 34290,
+    "endMs": 35150,
+    "timestampMs": 34720,
+    "confidence": 0.9
+  },
+  {
+    "text": " groceries",
+    "startMs": 35150,
+    "endMs": 35704,
+    "timestampMs": 35427,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 35704,
+    "endMs": 35857,
+    "timestampMs": 35781,
+    "confidence": 0.9
+  },
+  {
+    "text": " up",
+    "startMs": 35857,
+    "endMs": 36086,
+    "timestampMs": 35972,
+    "confidence": 0.9
+  },
+  {
+    "text": " about",
+    "startMs": 36086,
+    "endMs": 36506,
+    "timestampMs": 36296,
+    "confidence": 0.9
+  },
+  {
+    "text": " two",
+    "startMs": 36506,
+    "endMs": 36774,
+    "timestampMs": 36640,
+    "confidence": 0.9
+  },
+  {
+    "text": " point",
+    "startMs": 36774,
+    "endMs": 37003,
+    "timestampMs": 36889,
+    "confidence": 0.9
+  },
+  {
+    "text": " three",
+    "startMs": 37003,
+    "endMs": 37309,
+    "timestampMs": 37156,
+    "confidence": 0.9
+  },
+  {
+    "text": " percent.",
+    "startMs": 37309,
+    "endMs": 37920,
+    "timestampMs": 37615,
+    "confidence": 0.9
+  },
+  {
+    "text": "Every",
+    "startMs": 39340,
+    "endMs": 39682,
+    "timestampMs": 39511,
+    "confidence": 0.9
+  },
+  {
+    "text": " price",
+    "startMs": 39682,
+    "endMs": 40075,
+    "timestampMs": 39879,
+    "confidence": 0.9
+  },
+  {
+    "text": " has",
+    "startMs": 40075,
+    "endMs": 40297,
+    "timestampMs": 40186,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 40297,
+    "endMs": 40383,
+    "timestampMs": 40340,
+    "confidence": 0.9
+  },
+  {
+    "text": " supply",
+    "startMs": 40383,
+    "endMs": 40708,
+    "timestampMs": 40546,
+    "confidence": 0.9
+  },
+  {
+    "text": " chain",
+    "startMs": 40708,
+    "endMs": 40981,
+    "timestampMs": 40845,
+    "confidence": 0.9
+  },
+  {
+    "text": " behind",
+    "startMs": 40981,
+    "endMs": 41375,
+    "timestampMs": 41178,
+    "confidence": 0.9
+  },
+  {
+    "text": " it.",
+    "startMs": 41375,
+    "endMs": 41683,
+    "timestampMs": 41529,
+    "confidence": 0.9
+  }
+]

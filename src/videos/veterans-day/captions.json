@@ -1,0 +1,583 @@
+[
+  {
+    "text": "Today",
+    "startMs": 250,
+    "endMs": 538,
+    "timestampMs": 394,
+    "confidence": 0.9
+  },
+  {
+    "text": " is",
+    "startMs": 538,
+    "endMs": 682,
+    "timestampMs": 610,
+    "confidence": 0.9
+  },
+  {
+    "text": " Veterans",
+    "startMs": 682,
+    "endMs": 1134,
+    "timestampMs": 908,
+    "confidence": 0.9
+  },
+  {
+    "text": " Day,",
+    "startMs": 1134,
+    "endMs": 1469,
+    "timestampMs": 1302,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 1725,
+    "endMs": 1825,
+    "timestampMs": 1775,
+    "confidence": 0.9
+  },
+  {
+    "text": " here's",
+    "startMs": 1825,
+    "endMs": 1977,
+    "timestampMs": 1901,
+    "confidence": 0.9
+  },
+  {
+    "text": " what's",
+    "startMs": 1977,
+    "endMs": 2224,
+    "timestampMs": 2101,
+    "confidence": 0.9
+  },
+  {
+    "text": " open",
+    "startMs": 2224,
+    "endMs": 2717,
+    "timestampMs": 2471,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 2717,
+    "endMs": 2923,
+    "timestampMs": 2820,
+    "confidence": 0.9
+  },
+  {
+    "text": " what's",
+    "startMs": 2923,
+    "endMs": 3313,
+    "timestampMs": 3118,
+    "confidence": 0.9
+  },
+  {
+    "text": " not.",
+    "startMs": 3313,
+    "endMs": 3889,
+    "timestampMs": 3601,
+    "confidence": 0.9
+  },
+  {
+    "text": "It's",
+    "startMs": 5011,
+    "endMs": 5197,
+    "timestampMs": 5104,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 5197,
+    "endMs": 5300,
+    "timestampMs": 5249,
+    "confidence": 0.9
+  },
+  {
+    "text": " federal",
+    "startMs": 5300,
+    "endMs": 5671,
+    "timestampMs": 5486,
+    "confidence": 0.9
+  },
+  {
+    "text": " holiday,",
+    "startMs": 5671,
+    "endMs": 6434,
+    "timestampMs": 6053,
+    "confidence": 0.9
+  },
+  {
+    "text": " so",
+    "startMs": 6434,
+    "endMs": 6785,
+    "timestampMs": 6610,
+    "confidence": 0.9
+  },
+  {
+    "text": " post",
+    "startMs": 6785,
+    "endMs": 7095,
+    "timestampMs": 6940,
+    "confidence": 0.9
+  },
+  {
+    "text": " offices",
+    "startMs": 7095,
+    "endMs": 7507,
+    "timestampMs": 7301,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 7507,
+    "endMs": 7672,
+    "timestampMs": 7590,
+    "confidence": 0.9
+  },
+  {
+    "text": " closed,",
+    "startMs": 7672,
+    "endMs": 8477,
+    "timestampMs": 8075,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 8663,
+    "endMs": 8763,
+    "timestampMs": 8713,
+    "confidence": 0.9
+  },
+  {
+    "text": " Federal",
+    "startMs": 8763,
+    "endMs": 8863,
+    "timestampMs": 8813,
+    "confidence": 0.9
+  },
+  {
+    "text": " Reserve",
+    "startMs": 8863,
+    "endMs": 9261,
+    "timestampMs": 9062,
+    "confidence": 0.9
+  },
+  {
+    "text": " is",
+    "startMs": 9261,
+    "endMs": 9446,
+    "timestampMs": 9354,
+    "confidence": 0.9
+  },
+  {
+    "text": " closed,",
+    "startMs": 9446,
+    "endMs": 10024,
+    "timestampMs": 9735,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 10024,
+    "endMs": 10230,
+    "timestampMs": 10127,
+    "confidence": 0.9
+  },
+  {
+    "text": " most",
+    "startMs": 10230,
+    "endMs": 10581,
+    "timestampMs": 10406,
+    "confidence": 0.9
+  },
+  {
+    "text": " banks",
+    "startMs": 10581,
+    "endMs": 11035,
+    "timestampMs": 10808,
+    "confidence": 0.9
+  },
+  {
+    "text": " close",
+    "startMs": 11035,
+    "endMs": 11448,
+    "timestampMs": 11242,
+    "confidence": 0.9
+  },
+  {
+    "text": " too.",
+    "startMs": 11448,
+    "endMs": 12108,
+    "timestampMs": 11778,
+    "confidence": 0.9
+  },
+  {
+    "text": "The",
+    "startMs": 12509,
+    "endMs": 12636,
+    "timestampMs": 12573,
+    "confidence": 0.9
+  },
+  {
+    "text": " bond",
+    "startMs": 12636,
+    "endMs": 12907,
+    "timestampMs": 12772,
+    "confidence": 0.9
+  },
+  {
+    "text": " market",
+    "startMs": 12907,
+    "endMs": 13232,
+    "timestampMs": 13070,
+    "confidence": 0.9
+  },
+  {
+    "text": " takes",
+    "startMs": 13232,
+    "endMs": 13467,
+    "timestampMs": 13350,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 13467,
+    "endMs": 13594,
+    "timestampMs": 13531,
+    "confidence": 0.9
+  },
+  {
+    "text": " day",
+    "startMs": 13594,
+    "endMs": 13865,
+    "timestampMs": 13730,
+    "confidence": 0.9
+  },
+  {
+    "text": " off,",
+    "startMs": 13865,
+    "endMs": 14353,
+    "timestampMs": 14109,
+    "confidence": 0.9
+  },
+  {
+    "text": " but",
+    "startMs": 14353,
+    "endMs": 14498,
+    "timestampMs": 14426,
+    "confidence": 0.9
+  },
+  {
+    "text": " the",
+    "startMs": 14498,
+    "endMs": 14643,
+    "timestampMs": 14571,
+    "confidence": 0.9
+  },
+  {
+    "text": " stock",
+    "startMs": 14643,
+    "endMs": 14950,
+    "timestampMs": 14797,
+    "confidence": 0.9
+  },
+  {
+    "text": " market",
+    "startMs": 14950,
+    "endMs": 15311,
+    "timestampMs": 15131,
+    "confidence": 0.9
+  },
+  {
+    "text": " stays",
+    "startMs": 15311,
+    "endMs": 15745,
+    "timestampMs": 15528,
+    "confidence": 0.9
+  },
+  {
+    "text": " open.",
+    "startMs": 15745,
+    "endMs": 16360,
+    "timestampMs": 16053,
+    "confidence": 0.9
+  },
+  {
+    "text": "Most",
+    "startMs": 17002,
+    "endMs": 17274,
+    "timestampMs": 17138,
+    "confidence": 0.9
+  },
+  {
+    "text": " stores",
+    "startMs": 17274,
+    "endMs": 17642,
+    "timestampMs": 17458,
+    "confidence": 0.9
+  },
+  {
+    "text": " are",
+    "startMs": 17642,
+    "endMs": 17816,
+    "timestampMs": 17729,
+    "confidence": 0.9
+  },
+  {
+    "text": " open,",
+    "startMs": 17816,
+    "endMs": 18398,
+    "timestampMs": 18107,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 18398,
+    "endMs": 18553,
+    "timestampMs": 18476,
+    "confidence": 0.9
+  },
+  {
+    "text": " many",
+    "startMs": 18553,
+    "endMs": 18843,
+    "timestampMs": 18698,
+    "confidence": 0.9
+  },
+  {
+    "text": " offer",
+    "startMs": 18843,
+    "endMs": 19173,
+    "timestampMs": 19008,
+    "confidence": 0.9
+  },
+  {
+    "text": " discounts",
+    "startMs": 19173,
+    "endMs": 19638,
+    "timestampMs": 19406,
+    "confidence": 0.9
+  },
+  {
+    "text": " for",
+    "startMs": 19638,
+    "endMs": 19812,
+    "timestampMs": 19725,
+    "confidence": 0.9
+  },
+  {
+    "text": " veterans",
+    "startMs": 19812,
+    "endMs": 20277,
+    "timestampMs": 20045,
+    "confidence": 0.9
+  },
+  {
+    "text": " and",
+    "startMs": 20277,
+    "endMs": 20432,
+    "timestampMs": 20355,
+    "confidence": 0.9
+  },
+  {
+    "text": " service",
+    "startMs": 20432,
+    "endMs": 20859,
+    "timestampMs": 20646,
+    "confidence": 0.9
+  },
+  {
+    "text": " members.",
+    "startMs": 20859,
+    "endMs": 21731,
+    "timestampMs": 21295,
+    "confidence": 0.9
+  },
+  {
+    "text": "One",
+    "startMs": 22527,
+    "endMs": 22802,
+    "timestampMs": 22665,
+    "confidence": 0.9
+  },
+  {
+    "text": " practical",
+    "startMs": 22802,
+    "endMs": 23313,
+    "timestampMs": 23058,
+    "confidence": 0.9
+  },
+  {
+    "text": " tip:",
+    "startMs": 23313,
+    "endMs": 23996,
+    "timestampMs": 23655,
+    "confidence": 0.9
+  },
+  {
+    "text": " if",
+    "startMs": 24424,
+    "endMs": 24524,
+    "timestampMs": 24474,
+    "confidence": 0.9
+  },
+  {
+    "text": " you're",
+    "startMs": 24524,
+    "endMs": 24624,
+    "timestampMs": 24574,
+    "confidence": 0.9
+  },
+  {
+    "text": " paying",
+    "startMs": 24624,
+    "endMs": 24786,
+    "timestampMs": 24705,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 24786,
+    "endMs": 24904,
+    "timestampMs": 24845,
+    "confidence": 0.9
+  },
+  {
+    "text": " bill",
+    "startMs": 24904,
+    "endMs": 25297,
+    "timestampMs": 25101,
+    "confidence": 0.9
+  },
+  {
+    "text": " or",
+    "startMs": 25297,
+    "endMs": 25513,
+    "timestampMs": 25405,
+    "confidence": 0.9
+  },
+  {
+    "text": " sending",
+    "startMs": 25513,
+    "endMs": 25866,
+    "timestampMs": 25690,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 25866,
+    "endMs": 25984,
+    "timestampMs": 25925,
+    "confidence": 0.9
+  },
+  {
+    "text": " transfer",
+    "startMs": 25984,
+    "endMs": 26514,
+    "timestampMs": 26249,
+    "confidence": 0.9
+  },
+  {
+    "text": " today,",
+    "startMs": 26514,
+    "endMs": 27568,
+    "timestampMs": 27041,
+    "confidence": 0.9
+  },
+  {
+    "text": " it",
+    "startMs": 27762,
+    "endMs": 27862,
+    "timestampMs": 27812,
+    "confidence": 0.9
+  },
+  {
+    "text": " may",
+    "startMs": 27862,
+    "endMs": 27962,
+    "timestampMs": 27912,
+    "confidence": 0.9
+  },
+  {
+    "text": " not",
+    "startMs": 27962,
+    "endMs": 28062,
+    "timestampMs": 28012,
+    "confidence": 0.9
+  },
+  {
+    "text": " go",
+    "startMs": 28062,
+    "endMs": 28162,
+    "timestampMs": 28112,
+    "confidence": 0.9
+  },
+  {
+    "text": " through",
+    "startMs": 28162,
+    "endMs": 28380,
+    "timestampMs": 28271,
+    "confidence": 0.9
+  },
+  {
+    "text": " until",
+    "startMs": 28380,
+    "endMs": 28714,
+    "timestampMs": 28547,
+    "confidence": 0.9
+  },
+  {
+    "text": " tomorrow.",
+    "startMs": 28714,
+    "endMs": 29617,
+    "timestampMs": 29166,
+    "confidence": 0.9
+  },
+  {
+    "text": "Thank",
+    "startMs": 30785,
+    "endMs": 30986,
+    "timestampMs": 30886,
+    "confidence": 0.9
+  },
+  {
+    "text": " a",
+    "startMs": 30986,
+    "endMs": 31086,
+    "timestampMs": 31036,
+    "confidence": 0.9
+  },
+  {
+    "text": " veteran.",
+    "startMs": 31086,
+    "endMs": 31716,
+    "timestampMs": 31401,
+    "confidence": 0.9
+  },
+  {
+    "text": "Check",
+    "startMs": 32413,
+    "endMs": 32607,
+    "timestampMs": 32510,
+    "confidence": 0.9
+  },
+  {
+    "text": " your",
+    "startMs": 32607,
+    "endMs": 32721,
+    "timestampMs": 32664,
+    "confidence": 0.9
+  },
+  {
+    "text": " transfer",
+    "startMs": 32721,
+    "endMs": 32995,
+    "timestampMs": 32858,
+    "confidence": 0.9
+  },
+  {
+    "text": " date.",
+    "startMs": 32995,
+    "endMs": 33475,
+    "timestampMs": 33235,
+    "confidence": 0.9
+  }
+]

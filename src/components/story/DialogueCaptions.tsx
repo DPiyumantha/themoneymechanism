@@ -79,7 +79,8 @@ export const DialogueCaptions: React.FC<DialogueCaptionsProps> = ({
             style={{
               display: "inline-block",
               color: active ? cast.color : plain ? theme.colors.ink : `${cast.color}D9`,
-              transform: active ? "scale(1.07)" : undefined,
+              // A lift, not a scale: scaling a long word ate the gap to its neighbour ("Atwelve-dollar").
+              transform: active ? "translateY(-0.05em)" : undefined,
               textShadow: plain ? "0 3px 0 #000, 0 0 18px rgba(0,0,0,0.75)" : undefined,
             }}
           >

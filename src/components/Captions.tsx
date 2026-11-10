@@ -67,7 +67,8 @@ export const Captions: React.FC<CaptionsProps> = ({ captions, combineWithinMs = 
                 display: "inline-block",
                 color: active ? theme.colors.accentLight : theme.colors.ink,
                 textShadow: "0 3px 0 #000, 0 0 18px rgba(0,0,0,0.75)",
-                transform: active ? "scale(1.06)" : undefined,
+                // A lift, not a scale: scaling a long word ate the gap to its neighbour.
+                transform: active ? "translateY(-0.05em)" : undefined,
               }}
             >
               {tok.text.trim()}
